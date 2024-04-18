@@ -7,6 +7,8 @@ from jiwer import wer
 # Automatically download the english test subset of Mozilla commonvoice
 # This will save somewhere to disk - identify the path and use this path as our directory from which we provide examples to whisper.cpp
 # Model card: https://huggingface.co/datasets/fsicoli/common_voice_17_0
+# TODO: Make sure this is coming in as 16k sample rate
+# TODO : Figure out what file path huggingface is saving these to, and store that here to iterate over
 cv_17 = load_dataset("fsicoli/common_voice_17_0", "en", split="test")
 
 # Accuracy measurement: Word Error Rate
@@ -49,6 +51,11 @@ class AudioTranscriber:
 
 
 def main():
+    asr = AudioTranscriber(model="base.en-q5_0")
+    # TODO: Iterate over dataset directory and transcribe each sample
+    # TODO: Time the transcribe() function
+    # TODO: Compute WER for testing subset of commonvoice
+    # TODO: Run this for all 8 model configurations (base, tiny, small, medium) + quantization
     pass
 
 
