@@ -51,7 +51,11 @@ class AudioTranscriber:
 
 
 def main():
+    # TODO: Compute accuracy and runtime for just one model
     asr = AudioTranscriber(model="base.en-q5_0")
+    for sample in cv_17.iter(batch_size=1):
+        print(sample)
+
     # TODO: Iterate over dataset directory and transcribe each sample
     # TODO: Time the transcribe() function
     # TODO: Compute WER for testing subset of commonvoice
