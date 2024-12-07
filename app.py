@@ -9,7 +9,7 @@ from jiwer import wer
 # Model card: https://huggingface.co/datasets/fsicoli/common_voice_17_0
 # TODO: Make sure this is coming in as 16k sample rate
 # TODO : Figure out what file path huggingface is saving these to, and store that here to iterate over
-cv_17 = load_dataset("fsicoli/common_voice_17_0", "en", split="test")
+cv_17 = load_dataset("fsicoli/common_voice_17_0", "en", split="test", cache_dir="./dataset_cache")
 
 # Accuracy measurement: Word Error Rate
 # Use the following package: https://github.com/jitsi/jiwer
@@ -55,6 +55,11 @@ def main():
     asr = AudioTranscriber(model="base.en-q5_0")
     for sample in cv_17.iter(batch_size=1):
         print(sample)
+        # Dispatch file to ASR model for testing
+        pred = asr.transcribe(sample['unknown'])
+        # Compute WER between prediction and actual
+        err = wer(sample['label'], pred)
+        # TODO: store this in a pd dataframe somwehre
 
     # TODO: Iterate over dataset directory and transcribe each sample
     # TODO: Time the transcribe() function
