@@ -60,7 +60,7 @@ class AudioTranscriber:
 def compile_whisper_cpp() -> None:
 # First, make sure we've compiled the quantization tool
     if not os.path.exists("whisper.cpp/main"):
-        cmd = "whisper.cpp/make -j"
+        cmd = "cd whisper.cpp && make -j"
         process = subprocess.Popen(cmd, shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
         output, error = process.communicate()
     if not os.path.exists("whisper.cpp/quantize"):
