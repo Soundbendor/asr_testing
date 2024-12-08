@@ -1,6 +1,9 @@
 import logging
+import os
 import subprocess
+import time
 
+import pandas as pd
 from datasets import load_dataset
 from jiwer import wer
 
@@ -8,25 +11,13 @@ from jiwer import wer
 # This will save somewhere to disk - identify the path and use this path as our directory from which we provide examples to whisper.cpp
 # Model card: https://huggingface.co/datasets/fsicoli/common_voice_17_0
 # TODO: Make sure this is coming in as 16k sample rate
-# TODO : Figure out what file path huggingface is saving these to, and store that here to iterate over
-cv_17 = load_dataset("fsicoli/common_voice_17_0", "en", split="test", cache_dir="./dataset_cache")
+cv_17 = load_dataset("mozilla-foundation/common_voice_17_0", "en", split="test", cache_dir="./dataset_cache")
 
-# Accuracy measurement: Word Error Rate
-# Use the following package: https://github.com/jitsi/jiwer
-
-# error = wer(predicted_label, true_label)
-
-# Transcription code provided by Will for interfacing with whisper.cpp
 """
 Will Richards, Oregon State University, 2024
 
 Abstraction layer for automated speech recognition (ASR) of recorded audio
 """
-
-# TODO: Configure makefile such that we build the Whisper binary based on the desired model architecture
-# This might involve some syscalls
-# or, we just build everything once and then retrieve the binary from the assosciated models directory
-
 
 class AudioTranscriber:
     def __init__(self, model="base.en-q5_0"):
@@ -50,23 +41,67 @@ class AudioTranscriber:
         return processed_str
 
 
+# TODO: randomly sample the test subset... because there are too many damn samples
+
+model_list = [
+    "tiny.en",
+    "base.en",
+    "small.en",
+    "medium.en"
+]
+
+def compile_whisper_cpp() -> None:
+# First, make sure we've compiled the quantization tool
+    if not os.path.exists("whisper.cpp/quantize"):
+        cmd = "whisper.cpp/make -j quantize"
+        process = subprocess.Popen(cmd, shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+        output, error = process.communicate()
+    # For every model, compile it, then quantize it
+    for model in model_list:
+        _compile_whisper_model(model)
+        _quantize_whisper_model(model)
+
+def _compile_whisper_model(model: str) -> None:
+    if not os.path.exists(f"whisper.cpp/models/ggml-{model}.bin"):
+        cmd = f"whisper.cpp/make -j {model}"
+        process = subprocess.Popen(cmd, shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+        output, error = process.communicate()
+
+
+def _quantize_whisper_model(model: str) -> None:
+    if not os.path.exists(f"whisper.cpp/models/ggml-{model}-q5_0.bin"):
+        cmd = f"whisper.cpp/quantize models/ggml-{model}.bin models/ggml-{model}-q5_0.bin q5_0"
+        process = subprocess.Popen(cmd, shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+        output, error = process.communicate()
+
+
 def main():
-    # TODO: Compute accuracy and runtime for just one model
-    asr = AudioTranscriber(model="base.en-q5_0")
+    # Ensure all model binaries are compiled... will skip if already available
+    compile_whisper_cpp()
+    model_list += [f"{x}-q5_0" for x in model_list]
+    # For each model, run transcription experiment
+    for model in model_list:
+        result_df = test_transcription(model)
+
+
+def test_transcription(model: str) -> pd.DataFrame:
+    asr = AudioTranscriber(model=model)
+    records = []
     for sample in cv_17.iter(batch_size=1):
         print(sample)
         # Dispatch file to ASR model for testing
-        pred = asr.transcribe(sample['unknown'])
+        time_initial = time.time()
+        pred = asr.transcribe(sample['label'])
+        time_final = time.time()
         # Compute WER between prediction and actual
         err = wer(sample['label'], pred)
-        # TODO: store this in a pd dataframe somwehre
-
-    # TODO: Iterate over dataset directory and transcribe each sample
-    # TODO: Time the transcribe() function
-    # TODO: Compute WER for testing subset of commonvoice
-    # TODO: Run this for all 8 model configurations (base, tiny, small, medium) + quantization
-    pass
-
+        time_delta = time_final - time_initial
+        records.append({"sample": sample['label'], "prediction": pred, "WER": err, "runtime": time_delta})
+        
+    # TODO: store this in a pd dataframe somwehre
+    df = pd.DataFrame.from_records(records)
+    df.name = model
+    return df
 
 if __name__ == "__main__":
     pass
