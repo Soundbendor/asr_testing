@@ -106,7 +106,8 @@ def test_transcription(model: str) -> pd.DataFrame:
     for sample in cv_17.take(1000):
         print(sample)
         # Write sample to file
-        sample_path = f"{os.path.splitext(sample["path"])[0]}.wav"
+        basename = os.path.splitext(sample['path'])[0]
+        sample_path = f"{basename}.wav"
         if not os.path.exists(sample_path):
             sf.write(sample_path, sample['audio']['array'], sample['audio']['sampling_rate'])
         # Dispatch file to ASR model for testing
