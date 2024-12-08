@@ -111,7 +111,7 @@ def main():
 def test_transcription(model: str) -> pd.DataFrame:
     asr = AudioTranscriber(model=model)
     records = []
-    for sample in tqdm(cv_17.take(1000)):
+    for sample in tqdm(cv_17.take(1000), total=1000):
         # Write sample to file
         basename = os.path.splitext(sample['path'])[0]
         sample_path = f"{basename}.wav"
