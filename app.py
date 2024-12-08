@@ -63,10 +63,12 @@ def compile_whisper_cpp() -> None:
         cmd = "cd whisper.cpp && make -j"
         process = subprocess.Popen(cmd, shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
         output, error = process.communicate()
+        print(output)
     if not os.path.exists("whisper.cpp/quantize"):
-        cmd = "whisper.cpp/make -j quantize"
+        cmd = "cd whisper.cpp && make -j quantize"
         process = subprocess.Popen(cmd, shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
         output, error = process.communicate()
+        print(output)
     # For every model, compile it, then quantize it
     for model in model_list:
         _compile_whisper_model(model)
@@ -74,16 +76,18 @@ def compile_whisper_cpp() -> None:
 
 def _compile_whisper_model(model: str) -> None:
     if not os.path.exists(f"whisper.cpp/models/ggml-{model}.bin"):
-        cmd = f"whisper.cpp/make -j {model}"
+        cmd = f"cd whisper.cpp && make -j {model}"
         process = subprocess.Popen(cmd, shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
         output, error = process.communicate()
+        print(output)
 
 
 def _quantize_whisper_model(model: str) -> None:
     if not os.path.exists(f"whisper.cpp/models/ggml-{model}-q5_0.bin"):
-        cmd = f"whisper.cpp/quantize models/ggml-{model}.bin models/ggml-{model}-q5_0.bin q5_0"
+        cmd = f"cd whisper.cpp && quantize models/ggml-{model}.bin models/ggml-{model}-q5_0.bin q5_0"
         process = subprocess.Popen(cmd, shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
         output, error = process.communicate()
+        print(output)
 
 
 def main():
