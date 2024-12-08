@@ -106,11 +106,12 @@ def test_transcription(model: str) -> pd.DataFrame:
     for sample in cv_17.take(1000):
         print(sample)
         # Write sample to file
-        if not os.path.exists(sample['path']):
-            sf.write(sample['path'], sample['audio']['array'], sample['audio']['sampling_rate'])
+        sample_path = f"{os.path.splitext(sample["path"])[0]}.wav"
+        if not os.path.exists(sample_path):
+            sf.write(sample_path, sample['audio']['array'], sample['audio']['sampling_rate'])
         # Dispatch file to ASR model for testing
         time_initial = time.time()
-        pred = asr.transcribe(sample['path'])
+        pred = asr.transcribe(sample_path)
         time_final = time.time()
         # Compute WER between prediction and actual
         err = wer(sample['sentence'], pred)
