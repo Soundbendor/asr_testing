@@ -36,7 +36,7 @@ class AudioTranscriber:
         self.modelPath = f"whisper.cpp/models/ggml-{model}.bin"
 
     def transcribe(self, inputFile: str):
-        full_command = f"../whisper.cpp/main -m {self.modelPath} -f {inputFile} -np -nt"
+        full_command = f"whisper.cpp/main -m {self.modelPath} -f {inputFile} -np -nt"
         process = subprocess.Popen(
             full_command, shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE
         )
