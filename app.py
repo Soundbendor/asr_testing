@@ -91,12 +91,12 @@ def test_transcription(model: str) -> pd.DataFrame:
         print(sample)
         # Dispatch file to ASR model for testing
         time_initial = time.time()
-        pred = asr.transcribe(sample['label'])
+        pred = asr.transcribe(sample['path'])
         time_final = time.time()
         # Compute WER between prediction and actual
-        err = wer(sample['label'], pred)
+        err = wer(sample['sentence'], pred)
         time_delta = time_final - time_initial
-        records.append({"sample": sample['label'], "prediction": pred, "WER": err, "runtime": time_delta})
+        records.append({"sample": sample['sentence'], "prediction": pred, "WER": err, "runtime": time_delta})
         
     # TODO: store this in a pd dataframe somwehre
     df = pd.DataFrame.from_records(records)
