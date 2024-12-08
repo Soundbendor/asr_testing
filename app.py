@@ -114,6 +114,7 @@ def test_transcription(model: str) -> pd.DataFrame:
         # Dispatch file to ASR model for testing
         time_initial = time.time()
         pred = asr.transcribe(sample_path)
+        print(pred)
         time_final = time.time()
         # Compute WER between prediction and actual
         err = wer(sample['sentence'], pred)
