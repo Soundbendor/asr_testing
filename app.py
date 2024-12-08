@@ -5,7 +5,7 @@ import time
 
 import pandas as pd
 import soundfile as sf
-from datasets import load_dataset
+from datasets import Audio, load_dataset
 from jiwer import wer
 
 # Automatically download the english test subset of Mozilla commonvoice
@@ -20,6 +20,7 @@ cv_17 = load_dataset(
     streaming=True, 
     token=True
 )
+cv_17 = cv_17.cast_column("audio", Audio(sampling_rate=16000))
 model_list = [
     "tiny.en",
     "base.en",
