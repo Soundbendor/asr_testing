@@ -4,6 +4,7 @@ import subprocess
 import time
 
 import pandas as pd
+import soundfile as sf
 from datasets import load_dataset
 from jiwer import wer
 
@@ -104,6 +105,9 @@ def test_transcription(model: str) -> pd.DataFrame:
     records = []
     for sample in cv_17.take(1000):
         print(sample)
+        # Write sample to file
+        if not os.path.exists(sample['path']):
+            sf.write(sample['path'], sample['audio']['array'], sample['audio']['sampling_rate'])
         # Dispatch file to ASR model for testing
         time_initial = time.time()
         pred = asr.transcribe(sample['path'])
