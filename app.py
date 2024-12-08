@@ -111,4 +111,4 @@ def test_transcription(model: str) -> pd.DataFrame:
     return df
 
 if __name__ == "__main__":
-    pass
+    main()
