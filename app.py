@@ -11,9 +11,20 @@ from jiwer import wer
 # This will save somewhere to disk - identify the path and use this path as our directory from which we provide examples to whisper.cpp
 # Model card: https://huggingface.co/datasets/fsicoli/common_voice_17_0
 # TODO: Make sure this is coming in as 16k sample rate
-cv_17 = load_dataset("mozilla-foundation/common_voice_17_0", "en", split="test", cache_dir="./dataset_cache",
-                     streaming=True)
-
+cv_17 = load_dataset(
+    "mozilla-foundation/common_voice_17_0", 
+    "en", 
+    split="test", 
+    cache_dir="./dataset_cache", 
+    streaming=True, 
+    token=True
+)
+model_list = [
+    "tiny.en",
+    "base.en",
+    "small.en",
+    "medium.en"
+]
 """
 Will Richards, Oregon State University, 2024
 
@@ -44,12 +55,7 @@ class AudioTranscriber:
 
 # TODO: randomly sample the test subset... because there are too many damn samples
 
-model_list = [
-    "tiny.en",
-    "base.en",
-    "small.en",
-    "medium.en"
-]
+
 
 def compile_whisper_cpp() -> None:
 # First, make sure we've compiled the quantization tool
@@ -79,9 +85,9 @@ def _quantize_whisper_model(model: str) -> None:
 def main():
     # Ensure all model binaries are compiled... will skip if already available
     compile_whisper_cpp()
-    model_list += [f"{x}-q5_0" for x in model_list]
+    models = model_list + [f"{x}-q5_0" for x in model_list]
     # For each model, run transcription experiment
-    for model in model_list:
+    for model in models:
         result_df = test_transcription(model)
 
 
