@@ -2,6 +2,7 @@ import logging
 import os
 import subprocess
 import time
+from collections import defaultdict
 
 import matplotlib.pyplot as plt
 import pandas as pd
@@ -108,7 +109,7 @@ def main():
     # Ensure all model binaries are compiled... will skip if already available
     compile_whisper_cpp()
     model_dict = {x: model_list for x in ['python', 'cpp', 'q5_0']}
-    results = {}
+    results = defaultdict(dict)
     for arch_type, models in model_dict.items():
         for model in models:
             if not os.path.exists(f"{arch_type}_{model}.csv"):
