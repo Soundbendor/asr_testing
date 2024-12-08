@@ -11,7 +11,8 @@ from jiwer import wer
 # This will save somewhere to disk - identify the path and use this path as our directory from which we provide examples to whisper.cpp
 # Model card: https://huggingface.co/datasets/fsicoli/common_voice_17_0
 # TODO: Make sure this is coming in as 16k sample rate
-cv_17 = load_dataset("mozilla-foundation/common_voice_17_0", "en", split="test", cache_dir="./dataset_cache")
+cv_17 = load_dataset("mozilla-foundation/common_voice_17_0", "en", split="test", cache_dir="./dataset_cache",
+                     streaming=True)
 
 """
 Will Richards, Oregon State University, 2024
@@ -87,7 +88,7 @@ def main():
 def test_transcription(model: str) -> pd.DataFrame:
     asr = AudioTranscriber(model=model)
     records = []
-    for sample in cv_17.iter(batch_size=1):
+    for sample in cv_17.take(1000):
         print(sample)
         # Dispatch file to ASR model for testing
         time_initial = time.time()
