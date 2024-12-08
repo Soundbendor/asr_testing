@@ -33,7 +33,7 @@ Abstraction layer for automated speech recognition (ASR) of recorded audio
 
 class AudioTranscriber:
     def __init__(self, model="base.en-q5_0"):
-        self.modelPath = f"../whisper.cpp/models/ggml-{model}.bin"
+        self.modelPath = f"whisper.cpp/models/ggml-{model}.bin"
 
     def transcribe(self, inputFile: str):
         full_command = f"../whisper.cpp/main -m {self.modelPath} -f {inputFile} -np -nt"
