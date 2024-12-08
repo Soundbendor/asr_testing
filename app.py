@@ -3,8 +3,10 @@ import os
 import subprocess
 import time
 
+import matplotlib.pyplot as plt
 import pandas as pd
 import soundfile as sf
+import whisper
 from datasets import Audio, load_dataset
 from jiwer import wer
 from tqdm import tqdm
@@ -28,11 +30,20 @@ model_list = [
     "small.en",
     "medium.en"
 ]
+param_count = [39, 74, 244, 768]
 """
 Will Richards, Oregon State University, 2024
 
 Abstraction layer for automated speech recognition (ASR) of recorded audio
 """
+
+class WhisperTranscriber:
+    def __init__(self, model: str) -> None:
+        self.model = whisper.load_model(model)
+
+    def transcribe(self, inputFile: str):
+        return self.model.transcribe(inputFile)["text"]
+
 
 class AudioTranscriber:
     def __init__(self, model="base.en-q5_0"):
@@ -96,20 +107,58 @@ def _quantize_whisper_model(model: str) -> None:
 def main():
     # Ensure all model binaries are compiled... will skip if already available
     compile_whisper_cpp()
-    models = model_list + [f"{x}-q5_0" for x in model_list]
-    # For each model, run transcription experiment
-    results = []
-    for model in models:
-        result_df = test_transcription(model)
-        result_df.to_csv(f"{result_df.name}.csv")
-        results.append(result_df)
-        avg_wer = result_df['WER'].mean()
-        print(f"Average WER for {model}: {avg_wer}") 
+    model_dict = {x: model_list for x in ['python', 'cpp', 'q5_0']}
+    results = {}
+    for arch_type, models in model_dict.items():
+        for model in models:
+            if not os.path.exists(f"{arch_type}_{model}.csv"):
+                result_df = test_transcription(arch_type, model)
+                result_df.to_csv(f"{arch_type}_{model}.csv")
+            else:
+                print("Experiment already ran, loading...")
+                result_df = pd.read_csv(f"{arch_type}_{model}.csv")
+            results[arch_type][model] = result_df
+            avg_wer = result_df['WER'].mean()
+            avg_runtime = result_df['runtime'].mean()
+            print(f"{arch_type}: Average WER for {model}: {avg_wer}")
+            print(f"{arch_type}: Average runtime for {model}: {avg_runtime}")
+
+
+def plot_acc(results: dict):
+    # for architecture type...
+    for arch_type, models in results.items():
+        accs = [df['WER'].mean() for df in models.values()]
+        plt.plot(param_count, accs, label=arch_type)
+    plt.xlabel('Parameter Count (M)')
+    plt.ylabel('Word Error Rate')
+    plt.title('Accuracy of Whisper ASR Models')
+
+# WER over accuracy
+# line represents [tiny, base, small, med]
+# 3 lines per plot
+def plot_runtime_acc(results: dict):
+    for arch_type, models in results.items():
+        accs = [df['WER'].mean() for df in models.values()]
+        runtimes = [df['runtime'].mean() for df in models.values()]
+        plt.plot(accs, runtimes, label=arch_type)
+    plt.xlabel('Word Error Rate')
+    plt.ylabel('Avg. Runtime')
+    plt.title('Accuracy-Runtime Tradeoff for Whisper Models')
 
 
 
-def test_transcription(model: str) -> pd.DataFrame:
-    asr = AudioTranscriber(model=model)
+# TODO: how are we going to handle regular non-cpp models?
+def test_transcription(arch_type: str, model: str) -> pd.DataFrame:
+    match arch_type:
+        case 'python':
+            asr = WhisperTranscriber(model=model)
+        case 'q5_0':
+            asr = AudioTranscriber(model=f"{model}-q5_0")
+        case 'cpp':
+            asr = AudioTranscriber(model=model)
+        case _:
+            raise Exception("Invalid architecture type found")
+
     records = []
     for sample in tqdm(cv_17.take(1000), total=1000):
         # Write sample to file
