@@ -7,6 +7,7 @@ import pandas as pd
 import soundfile as sf
 from datasets import Audio, load_dataset
 from jiwer import wer
+from tqdm import tqdm
 
 # Automatically download the english test subset of Mozilla commonvoice
 # This will save somewhere to disk - identify the path and use this path as our directory from which we provide examples to whisper.cpp
@@ -97,15 +98,20 @@ def main():
     compile_whisper_cpp()
     models = model_list + [f"{x}-q5_0" for x in model_list]
     # For each model, run transcription experiment
+    results = []
     for model in models:
         result_df = test_transcription(model)
+        result_df.to_csv(f"{result_df.name}.csv")
+        results.append(result_df)
+        avg_wer = result_df['WER'].mean()
+        print(f"Average WER for {model}: {avg_wer}") 
+
 
 
 def test_transcription(model: str) -> pd.DataFrame:
     asr = AudioTranscriber(model=model)
     records = []
-    for sample in cv_17.take(1000):
-        print(sample)
+    for sample in tqdm(cv_17.take(1000)):
         # Write sample to file
         basename = os.path.splitext(sample['path'])[0]
         sample_path = f"{basename}.wav"
@@ -114,7 +120,6 @@ def test_transcription(model: str) -> pd.DataFrame:
         # Dispatch file to ASR model for testing
         time_initial = time.time()
         pred = asr.transcribe(sample_path)
-        print(pred)
         time_final = time.time()
         # Compute WER between prediction and actual
         err = wer(sample['sentence'], pred)
