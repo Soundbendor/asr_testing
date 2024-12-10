@@ -1,5 +1,8 @@
 #!/bin/sh
 
+printf "whisper.cpp: this script hasn't been maintained and is not functional atm\n"
+exit 1
+
 # This script downloads Whisper model files that have already been converted to Core ML format.
 # This way you don't have to convert them yourself.
 
@@ -19,7 +22,7 @@ get_script_path() {
 models_path="$(get_script_path)"
 
 # Whisper models
-models="tiny.en tiny base.en base small.en small medium.en medium large-v1 large-v2 large-v3"
+models="tiny.en tiny base.en base small.en small medium.en medium large-v1 large-v2 large-v3 large-v3-turbo"
 
 # list available models
 list_models() {
