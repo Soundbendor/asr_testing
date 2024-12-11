@@ -135,6 +135,7 @@ def plot_acc(results: dict):
     plt.xlabel('Parameter Count (M)')
     plt.ylabel('Word Error Rate')
     plt.title('Accuracy of Whisper ASR Models')
+    plt.legend()
     plt.savefig('acc.png')
 
 # WER over accuracy
@@ -148,6 +149,7 @@ def plot_runtime_acc(results: dict):
     plt.xlabel('Word Error Rate')
     plt.ylabel('Avg. Runtime')
     plt.title('Accuracy-Runtime Tradeoff for Whisper Models')
+    plt.legend()
     plt.savefig('runtime_acc.png')
 
 
