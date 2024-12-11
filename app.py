@@ -137,6 +137,7 @@ def plot_acc(results: dict):
     plt.title('Accuracy of Whisper ASR Models')
     plt.legend()
     plt.savefig('acc.png')
+    plt.clf()
 
 # WER over accuracy
 # line represents [tiny, base, small, med]
@@ -151,6 +152,7 @@ def plot_runtime_acc(results: dict):
     plt.title('Accuracy-Runtime Tradeoff for Whisper Models')
     plt.legend()
     plt.savefig('runtime_acc.png')
+    plt.clf()
 
 
 
