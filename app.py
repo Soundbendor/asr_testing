@@ -123,6 +123,8 @@ def main():
             avg_runtime = result_df['runtime'].mean()
             print(f"{arch_type}: Average WER for {model}: {avg_wer}")
             print(f"{arch_type}: Average runtime for {model}: {avg_runtime}")
+    plot_acc(results)
+    plot_runtime_acc(results)
 
 
 def plot_acc(results: dict):
@@ -133,6 +135,7 @@ def plot_acc(results: dict):
     plt.xlabel('Parameter Count (M)')
     plt.ylabel('Word Error Rate')
     plt.title('Accuracy of Whisper ASR Models')
+    plt.savefig('acc.png')
 
 # WER over accuracy
 # line represents [tiny, base, small, med]
@@ -145,6 +148,7 @@ def plot_runtime_acc(results: dict):
     plt.xlabel('Word Error Rate')
     plt.ylabel('Avg. Runtime')
     plt.title('Accuracy-Runtime Tradeoff for Whisper Models')
+    plt.savefig('runtime_acc.png')
 
 
 
