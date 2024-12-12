@@ -31,7 +31,7 @@ def load_data(cpu_type: str) -> pd.DataFrame:
 
 
 def make_acc_graphs(cpu_type: str, df: pd.DataFrame, ax_lim: Union[Tuple[float, float], None] = None):
-    ax = sns.lineplot(data=df, y='avg_wer', x='parameters', hue='Model Type', marker='o', palette='rocket')
+    ax = sns.lineplot(data=df, y='avg_wer', x='parameters', hue='Model Type', marker='o')
     ax.set(xlabel='Parameters (M)', ylabel='Word Error Rate', title=f'Whisper Transcription Accuracy: ({cpu_type})')
     if ax_lim:
         ax.set_ylim(ax_lim)
