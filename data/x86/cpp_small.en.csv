@@ -1,0 +1,1001 @@
+,sample,prediction,WER,runtime
+0,"Joe Keaton disapproved of films, and Buster also had reservations about the medium.",Joe Keaton disapproved of films and Buster also had reservations about the medium.,0.07692307692307693,5.423161268234253
+1,She'll be all right.,She'd be all right.,0.25,5.130879878997803
+2,six,Six.,1.0,4.943113565444946
+3,All's well that ends well.,"All is well, that ends well.",0.6,5.113055944442749
+4,It is a busy market town that serves a large surrounding area.,It is a busy market town that serves a large surrounded area.,0.08333333333333333,5.404505729675293
+5,We are going to the football game tonight.,We are going to the football game tonight.,0.0,5.240584373474121
+6,Elizabeth was about the same age as Maria.,Elizabeth was about the same age as Maria,0.125,5.625460624694824
+7,Do you mean it?,Do you mean it?,0.0,5.213958740234375
+8,How is Mozilla going to handle ambiguities like queue and cue?,"How is Mozilla going to handle and be with ease, like Q and Q?",0.5454545454545454,5.515941381454468
+9,You are so rude!,You are so rude.,0.25,5.301146507263184
+10,I guess you must think I'm kinda batty.,,1.0,5.400802135467529
+11,No one near the remote machine you could ring?,No one near the remote machine you could ring.,0.1111111111111111,5.2611918449401855
+12,Groves started writing songs when she was four years old.,Graves started writing songs when she was four years old.,0.1,5.397018909454346
+13,This led to both the Red Terror and the White Terror.,This led to both the red tear and the white tear.,0.36363636363636365,5.401335716247559
+14,The Sacramento Valley Rail Station is just a short walk away.,The Sacramento Valley Rail Station is just a short walk away.,0.0,5.345237731933594
+15,"The most recent presidents of the United States are Donald Trump, Barack Obama, and George W. Bush.","The most recent presidents of the United States are Donald Trump, Barack Obama, and George W. Bush.",0.0,5.5097057819366455
+16,There was nothing to hold him back except himself.,There was nothing to hold him back except himself.,0.0,5.276560306549072
+17,These locomotives are serviced at Washwood Heath.,These locomotives are serviced at Washwood Heath.,0.0,5.332449674606323
+18,It might be in this writer's Top Ten!,It might be in this writer's top 10.,0.25,5.167653560638428
+19,We spoke often.,We spoke often.,0.0,5.05708646774292
+20,Mrs. Lewis was selected as the new commissioner.,Mrs. Lewis was selected as the new commissioner.,0.0,5.293179035186768
+21,The electrician looked puzzled.,the definition,1.0,5.431110143661499
+22,The ladder on the fire truck was not long enough.,The leather on the fire truck was not long enough.,0.1,5.218685150146484
+23,I will tell her what we decided.,I will tell her what we decided.,0.0,5.114789962768555
+24,Enoxaparin belongs to the class of drugs known as low molecular weight heparins.,"Hello, good morning. A lot of sparing belongs to the class of Christian owners who are not here yet for the next time.",1.3846153846153846,5.735228538513184
+25,"I guess, it's a never-ending story.",I guess it's a never ending story.,0.5,5.162687063217163
+26,Good things come in small packages.,Good things come in small packages.,0.0,5.129769802093506
+27,It is a member theater of the Union of the Theatres of Europe.,"It is a member theater of the Union, of the theaters of Europe.",0.15384615384615385,5.31501030921936
+28,"I like apples, pears, and pomegranate, but I do like strawberries or grapes.","I like apples, pears, and pomegranate, but I do like strawberries or grapes.",0.0,5.6652891635894775
+29,YOU WANNA TAKE THIS OUTSIDE?,You wanna take this outside.,1.0,5.117470979690552
+30,The immersion in hot water also kills the silkworm pupa.,The immersion in hot water also kills a sick worm poopa.,0.4,5.37697696685791
+31,"She married her business partner, Steve Lane.","She married her business partner, Steven Lee.",0.2857142857142857,5.151275634765625
+32,Who has already arrived?,Who has already arrived?,0.0,5.102644443511963
+33,The attack on our root server overstrained our senior administrator.,That it take on your road server over strain our senior administrator,0.8,5.281337261199951
+34,Do you want me?,Do you want me?,0.0,5.0879034996032715
+35,That would be funny if he did.,That would be funny if he did.,0.0,5.176453113555908
+36,"Although she had flowers and applause, Mavis said she was not content.","Although she had flowers and applause, maybe said she was not content.",0.08333333333333333,5.369644403457642
+37,"When the user's identity has been accepted by the server, you will be notified.","When the user's identity has been accepted by the server, you will be notified.",0.0,5.3780436515808105
+38,Madin was a significant figure of post-war Birmingham architecture.,Madden was a significant figure of post-war Birmingham architecture.,0.1111111111111111,5.359078645706177
+39,Add the column and put the sum here.,Add the column and put the sum here.,0.0,5.2029030323028564
+40,"Hello, Benjamin.",Hello Benjamin.,0.5,5.002640962600708
+41,"After playing tennis in virtual reality, he felt dizzy.","After playing tennis in virtual reality, he felt dizzy.",0.0,5.286559343338013
+42,A mansion was usually set on a one square.,The mention was usually set on a one square.,0.2222222222222222,5.219801187515259
+43,Have you the key?,Have you the key?,0.0,5.057231664657593
+44,Rapidan Campaign May–June.,with them campaign made too,1.6666666666666667,5.198453664779663
+45,"Alston commented that he felt the cartoonist ""might have had some racial intent"".",Alstone commented that he felt the cartoonist might have had some racial intent.,0.23076923076923078,5.524915933609009
+46,Doing a handstand needs a lot of practice to learn.,Doing a handstand needs a lot of practice to learn.,0.0,5.339406251907349
+47,Man in red tshirt and baseball cap viewed from above he is has a pile of posters,Man in red t-shirt and baseball cap viewed from above he is has a pile of posture,0.11764705882352941,5.5719685554504395
+48,The two films were then released within one day of each other.,The two films were then released within one day of each other.,0.0,5.363643169403076
+49,‘What did he say his name was?’ asked the captain.,What did he say his name was asked the captain,0.3,5.346896648406982
+50,"At the hospital, I met a very nice nurse.",At the hospital I met a very nice nurse.,0.1111111111111111,5.267193794250488
+51,yes,Yes.,1.0,4.993788003921509
+52,He received his Ph.,He received his pH dot.,0.5,5.147671699523926
+53,"Since their inception, Harris has been the band's principal composer and lyricist.",[ Foreign Language ],1.0,5.992956638336182
+54,"After experiencing a mind-blowing sensual orgy, Mike was sure he had taken an overdose.","After experiencing a mind-blowing sensual orgy, Mike's was sure he had taken all of her dose.",0.35714285714285715,5.567264080047607
+55,Religious festivals include the Muslim Eids and the Christian Christmas and Easter.,Religious festivals include the Muslim Eats and the Christian Christmas and Easter.,0.08333333333333333,5.438951730728149
+56,"What do you advise, sir?","What do you advise, sir?",0.0,5.134246587753296
+57,"Charles looked on, angry that there was nothing he could do.","Charles looked on, angry that there was nothing he could do.",0.0,5.258158445358276
+58,Alexandria and Texas were shut down mid-season.,Alexandria and Texas were shut down mid-season.,0.0,5.296380281448364
+59,"Karina Smirnoff of ""Dancing With The Stars"" hosted the following month.",Karina Smurunov of Dancing with the Stars hosted the following month,0.5454545454545454,5.430568218231201
+60,It is inhibited by the pneumotaxic centre.,It is inhibited by the pneumotoxic center.,0.2857142857142857,5.273332595825195
+61,Her intro later appeared on the David Holmes Essential Collection.,Her intro later appeared on the David Holmes Essential Collection.,0.0,5.26299524307251
+62,An important person in the life of Emile Claus was the painter Jenny Montigny.,An important person in the life of a male cross was the painter Jamie Montegni.,0.35714285714285715,5.413928747177124
+63,"In the United States, Federal Vehicle fleets refers to the federal government's vehicles.","In the United States, federal vehicle fleets refer to the federal government's vehicles.",0.23076923076923078,5.525012731552124
+64,There is also a garnet mine in West Redding.,There is also a garnet mine in West Reading.,0.1111111111111111,5.354112863540649
+65,"They hastily drive to the plane, and flee from the dangers of the mob.",They hastily drive to the plane and flee from the dangers of the mob.,0.07142857142857142,5.428805828094482
+66,"It was won by a woman from Vara, Sweden.","It was won by a woman from Barra, Sweden.",0.1111111111111111,5.351660251617432
+67,The prints are then delivered to the customer.,The prints are then delivered to the customers.,0.125,5.171611309051514
+68,There was a long silence.,There was a long silence.,0.0,5.143751859664917
+69,Maybe he just put it there for safe keeping?,Maybe he just put it there for safekeeping.,0.2222222222222222,5.270951747894287
+70,"In spite of this, I still believed that there were men in Mars.",In spite of this I still believe that there were men and marks.,0.3076923076923077,5.414187908172607
+71,"The land was ruined, and I had to find some other way to earn a living.",The land was failed. I had to find some other way to earn money.,0.25,5.520199775695801
+72,"I pointed out Mars, a bright dot of light.","I pointed out Mars, a bright dot of light.",0.0,5.312104225158691
+73,I wondered if those birds were redwings?,I wondered if those birds were red wings.,0.2857142857142857,5.209150552749634
+74,The state plans to re-work those curves to improve safety.,The state plans to rework those curves to improve safety.,0.1,5.380563974380493
+75,He ended up running to the bars which fortified the windows of the first floor.,He ended up running to the bars which fortified the windows of the first floor.,0.0,5.493534803390503
+76,"She takes him to the lift, sending him downwards.","She takes him to the leaf, sending him downwards.",0.1111111111111111,5.272931098937988
+77,"I know why I want to get back to my flock, he thought.","""I know why I want to get back to my block,"" he thought.",0.15384615384615385,5.511032581329346
+78,She is married to the rapper and playwright Baba Brinkman.,She is married to the rapper and playwright Baba Brinkman.,0.0,5.438776731491089
+79,"Many notable problem and study composers are also International Judges, including Genrikh Kasparyan.",Many notable problem and steady composers are also international judges including Gendrik Kasparian.,0.38461538461538464,5.605508327484131
+80,Do you have Hugo's phone number?,Do you have Hugo's phone number?,0.0,5.186841249465942
+81,"You should see the other guy, specifically, how good at fighting he is.","You should see the other guy, specifically how good at fighting he is.",0.07692307692307693,5.473816633224487
+82,He is of African-American and Italian descent.,He is of African American and Italian descent.,0.2857142857142857,5.228821754455566
+83,Lord Kingsdown funded the Kingsdown Church.,Lord King's Down Funded The King's Down Church,1.1666666666666667,5.248537302017212
+84,That's not Carson Sphinx.,That's not Carson Spinks.,0.25,5.156038284301758
+85,Lorenz is listed as a Swiss heritage site of national significance.,Lorange is listed as a Swiss heritage site of national significance.,0.09090909090909091,5.427550315856934
+86,I have never in life hit a tennis ball.,I have never in life hit a tennis ball.,0.0,5.293948173522949
+87,No runoff was necessary.,No runoff was necessary.,0.0,5.131701946258545
+88,He is the first known and undisputed member of the Gediminids.,He is the first known and undisputed member of the Gemi needs.,0.18181818181818182,5.360667943954468
+89,"When it comes to the crunch, our company will become insolvent.","When it comes to the crunch, our company will become insolvent.",0.0,5.3536787033081055
+90,Lion Rock is located north west of Wong Tai Sin.,Lion Rock is located northwest of Wong Tai Sing.,0.3,5.316691875457764
+91,He also established new schools throughout Spain.,He also established new schools for outspeak.,0.2857142857142857,5.255407810211182
+92,Backface culling is a common trick to accelerate Three-D rendering.,Back face culling is a common trick to accelerate 3D rendering.,0.3,5.309133052825928
+93,At dusk the Greek western flank was broken.,At the desk the Greek western flank was broken through.,0.5,5.281986236572266
+94,We should not take for granted how fortunate we have been.,We should not take for granted how fortunate we have been.,0.0,5.220390319824219
+95,"Topical and up-to-the-minute, E!","Topical and up to the minute, E.",1.25,5.232041120529175
+96,The farmer works the soil and produces grain.,The farmer works the soil and produces grain.,0.0,5.145758390426636
+97,Don’t you understand me?,Don't you understand me?,0.25,5.136030435562134
+98,They found one such edge in Fairbairn's system.,They found one such edge in Fairbanks system.,0.125,5.351984739303589
+99,eight,Ate!,1.0,5.086039066314697
+100,"""The wind told me that you know about love"" the boy said to the sun.","'Lolita told me that you know about life,' the boy said to the son.",0.26666666666666666,5.585930109024048
+101,Geils began playing jazz trumpet but eventually switched to blues guitar.,"Jail is bigger playing gas trumpet but everyone surely should check to blues, guitar",0.9090909090909091,5.464221477508545
+102,That man is your brother?,That man is your brother?,0.0,5.116094589233398
+103,There is a small Vicinity Centres shopping complex in Albion Park.,There is a small vicinity center shopping complex in Albion Park.,0.18181818181818182,5.337882041931152
+104,The students colored with their crayons.,The students colored with their crayons.,0.0,5.197654485702515
+105,It seemed to him that it fell to earth about one hundred miles east of here.,It seemed to him that it fell to earth about 100 miles east here.,0.1875,5.425227403640747
+106,As such it is face uniform but with irregular face polygons.,"As such it is, face uniform, but with irregular face polygons.",0.18181818181818182,5.469073534011841
+107,A tame squirrel makes a nice pet.,A tame squirrel makes nice pets.,0.2857142857142857,5.1257617473602295
+108,He took the fourth part and handed it to the monk.,He took the first shot and handed it to the monk.,0.18181818181818182,5.298182249069214
+109,He is a right-handed batsman and a left-arm slow bowler.,He is a right handed batsman and a left arm slow bowler.,0.4,5.458387613296509
+110,Cador is also said to be of Roman stock.,Kador is also said to be of Roman stock.,0.1111111111111111,5.290330410003662
+111,Where will you go?,Where will you go?,0.0,5.083325386047363
+112,Get out of this!,cannot of this,0.75,5.064161062240601
+113,Only John Wayne himself surpassed McGrath in scenes in this movie.,Only John went himself surpassing Macbeth in scenes in this moment.,0.36363636363636365,5.336284160614014
+114,This will lead the world to more sound and fury.,This will lead the world to more sound and fury.,0.0,5.265397310256958
+115,Vera Schlink is a talented fund manager. She works in Vienna.,Leah Rushling is a talented fan manager. She works in Vienna.,0.2727272727272727,5.411491870880127
+116,"During the epoch, a majority of the city's buildings were erected.","During the Epoch, a majority of the city's buildings were erected.",0.09090909090909091,5.430691242218018
+117,Parent's Day is celebrated by both the public and the government.,Parent's Day is celebrated by both the public and the government.,0.0,5.368408918380737
+118,Why can't this researcher check your facts?,Why can't this researcher check your fats?,0.14285714285714285,5.2440948486328125
+119,'Munising' means near the island.,Municin means near the island.,0.2,5.196929216384888
+120,The owner of the dwelling was not amused.,The owner of the dwelling was not amused.,0.0,5.192839860916138
+121,All of this activity in Milwaukee was in no way unique.,All of this activity in Milwaukee was in no way unique.,0.0,5.323297739028931
+122,William Barnes the poet also lived in Sturminster Newton.,"William Barnes, the poet, also lived in star mister Newton.",0.4444444444444444,5.386039972305298
+123,He was temporarily in charge of consular affairs as well.,He was temporarily in charge of consular affairs as well.,0.0,5.3144495487213135
+124,Thai dancers happily going through their steps in unison.,"By one side, happy going through the research in unison.",0.6666666666666666,5.2615461349487305
+125,I'm so glad to see you.,I'm so glad to see you.,0.0,5.161478042602539
+126,I will ask Liam if he can help me look.,I will ask Liam if he can help me look.,0.0,5.209423780441284
+127,This can be considerable even with identical samples.,This can be considerable even with identical samples.,0.0,5.243157148361206
+128,What was he like?,What was he like?,0.0,5.084053039550781
+129,In Italy she studied law school and she spoke several languages.,"In Italy, she studied law school and she spoke several languages.",0.09090909090909091,5.342913389205933
+130,"Luckily, the dagger couldn't penetrate the bullet proof vest.","Luckily, the data couldn't penetrate the bulletproof vest.",0.3333333333333333,5.310350179672241
+131,"""Like everybody learns,"" he said.","Like everybody learns, you said.",0.6,5.138362407684326
+132,His other film roles include Who Done It?,These other film roles include Whodunit.,0.5,5.190138816833496
+133,How often has the train been late?,How often has the train been late?,0.0,5.192620038986206
+134,He is currently a member of investment bank Jefferies' Global Senior Advisory Board.,"He is currently a member of investment bank, average global senior accessory board.",0.46153846153846156,5.4217894077301025
+135,Her father was an alderman in the city government.,Our father was an older man in the city government.,0.3333333333333333,5.283627510070801
+136,"To increase his popularity in public-opinion polls, the politician started a campaign.","To increase popularity in public opinion polls, the politicians started their campaign.",0.4166666666666667,5.361914396286011
+137,She was the first woman Senator to die in office.,She was the first woman senator to die in office,0.2,5.300403356552124
+138,"Where is it, then?",Where is it then?,0.25,5.139649152755737
+139,Always ask an objective question.,Always ask an objective question.,0.0,5.07065486907959
+140,rate the current book two stars,[MUSIC PLAYING] [INTERPOSING VOICES],1.0,5.240655899047852
+141,People from all over have come to taste its bear stew.,People from all over have come to test its BRS2.,0.2727272727272727,5.352991104125977
+142,More discussion is needed on how it will be financed.,More discussion is needed on how it will be financed.,0.0,5.274738073348999
+143,A soldier wearing a pink scarf peers out of the top of a vehicle.,"Also, drawing a pink scarf peers out of the top of a vehicle.",0.21428571428571427,5.466900825500488
+144,This was your plan?,This was your plan.,0.25,5.020299673080444
+145,Princess Vilas herself also contributed personally to the construction of the temple.,Princess Phyllis herself also contributed personally to the construction of the temple.,0.08333333333333333,5.3364951610565186
+146,"""Bambalio"" refers to a tendency to stammer.",And Ballyu refers to a fluency dystoma.,0.7142857142857143,5.378870725631714
+147,"""I can work for the rest of today,"" the boy answered.","""I can't work for the restaurant today,"" the boy answered.",0.2727272727272727,5.338802337646484
+148,"I'd like to order some cinnamon pretzels, please.",I'd like to order some cinnamon pretzels please.,0.125,5.321807146072388
+149,The boy was also saddened; his friend was in pursuit of his destiny.,The boy was also saddened. His friend was in pursuit of his destiny.,0.15384615384615385,5.48906135559082
+150,Will you do this?,Will you do this?,0.0,5.073830842971802
+151,"For almost a month, she operated along the Atlantic coast.",For almost a month she operated along the Atlantic coast.,0.1,5.208295583724976
+152,"I think it was last Thursday, but I am not sure.","I think it was last Thursday, but I'm not sure.",0.18181818181818182,5.350764274597168
+153,Women form less than half of the group.,Women form less than half of the group.,0.0,5.186560869216919
+154,Men play football as a crowd watches.,Men play football as the crowd watches.,0.14285714285714285,5.22150993347168
+155,How about once more around the park?,How about once more around the park?,0.0,5.152096271514893
+156,It is possible that there were other visits.,It is postponed that there were other visits.,0.125,5.206429719924927
+157,Radio will go on and on forever.,Radio will go on and on forever.,0.0,5.3149144649505615
+158,The genus name was given in honour of Queen Victoria of the United Kingdom.,But Gina's name was given in honor of Queen Victoria of the United Kingdom.,0.21428571428571427,5.48469614982605
+159,"A song, a Girl, a maid.",a song a god a maid,0.6666666666666666,5.335218906402588
+160,Blue Pool Road has several steep slopes.,Blue Bull Road has several steep slopes.,0.14285714285714285,5.140547037124634
+161,Local branches throughout Slovakia were primarily engaged in public education and cultural activities.,Local branches throughout Slovakia were primarily engaged in public education and cultural activities.,0.0,5.410977602005005
+162,Its major industry has been slate mining.,The major industry has been slate mining.,0.14285714285714285,5.262441635131836
+163,"Today, Signature Flight Support services private aircraft in this area.",Today's signature flight support service is private aircraft in this area.,0.6,5.2648303508758545
+164,Amsterdam: Mathematical Centre Tracts.,Amsterdam Mathematical Center Tracks.,0.75,5.108177900314331
+165,This process is intense and often lengthy.,This process is intense and often lengthy.,0.0,5.195529222488403
+166,The line appears today on the Tube Map as an orange stripe.,"""Tedon appears to the iran, the tupma, as an orangishra.""",0.75,6.064267873764038
+167,"Hey, looks like you made a new friend.","Hey, looks like you made a new friend.",0.0,5.265365123748779
+168,What kind of a proof is that?,What can they approve is that?,0.5714285714285714,5.130238056182861
+169,That application was rejected.,The application was rejected.,0.25,5.2751665115356445
+170,They had a lot to divulge.,They had a lot to divulge.,0.0,5.179992198944092
+171,This fireplace is Victorian.,This fireplace is Victorian.,0.0,5.1070311069488525
+172,"In surprise finish, the final score was seven to five.","In surprise finish, the final score was 7-5.",0.3,5.320479154586792
+173,Every day was there to be lived or to mark one's departure from this world.,everyday was there to relive our two marks once departure from this world,0.6,5.3168535232543945
+174,He also spent time in Paris and London.,He also spent time in Paris and London.,0.0,5.259512424468994
+175,Streetcars ran for many years without precise timetables.,Three cars ran for many years without precise time-takers.,0.375,5.32525110244751
+176,Let's go to Orba.,Let's go to Arba,0.25,5.171588897705078
+177,"Potato crisps are thinly sliced fried potatoes, eaten as a snack",Potato grips are thinly sliced fried potatoes eaten as a snack.,0.2727272727272727,5.414811372756958
+178,"The movie ""White Christmas"" also starred Bing Crosby and Danny Kaye.",The movie White Christmas also starred Bing Crosby and Daniel K.,0.36363636363636365,5.351271629333496
+179,The staircase survives in The Swan Hotel in Bedford.,The staircase survives in the Swan Hotel in Bedford.,0.1111111111111111,5.318907976150513
+180,We are giving them no rest.,We are getting to know this.,0.6666666666666666,5.219233751296997
+181,This argument is ancient and musty and in respects an economic fallacy.,This argument is ancient and musty in respect to economic policy.,0.3333333333333333,5.35411524772644
+182,"Subsequently, an anterior approach was introduced.","Subsequently, an anterior approach was introduced.",0.0,5.23615026473999
+183,The amenability property has a large number of equivalent formulations.,The M and L deletion property has a large number of correlation formulations.,0.5,5.421161413192749
+184,"Double seaming uses rollers to shape the can, lid and the final double seam.","Double-swimming uses rulers to shape a candle, lead and the final double seal.",0.5,5.505575180053711
+185,See sources below.,See sources below.,0.0,5.0385613441467285
+186,Throughout the entire day we will be on the lookout for our enemies.,Throughout the entire day we will be on the lookout for our enemies,0.07692307692307693,5.313302755355835
+187,Since that time he has lived in London.,Since the time he has lived in London,0.25,5.273451328277588
+188,I am going to Germany tomorrow.,I am going to Germany tomorrow.,0.0,5.171690940856934
+189,The village's topography is mostly flat.,The village's topography is mostly flat.,0.0,5.205273151397705
+190,Plastic surgery has become more popular.,Plastic surgery has become more popular.,0.0,5.109549522399902
+191,The district is represented by Republican Mike Johnson.,The district is represented by Republican Mike Johnson.,0.0,5.13615608215332
+192,These original parts of the hospital are now administrative and social accommodation.,These original parts of the hospital are now administrative and social accommodation.,0.0,5.423262357711792
+193,She wanted to do penance.,She wanted to do penance.,0.0,5.1027796268463135
+194,"With no weapons, the only attack option open to him was aerial ramming.",With no weapons the only attack option open to him was Adil Raming.,0.23076923076923078,5.364031553268433
+195,It was in Sixpenny Hundred and the lord and tenant-in-chief was Shaftesbury Abbey.,"It was in six penny hundred, and the Lord and tenant-in-chief was Shattesbury Abbey.",0.38461538461538464,5.782846927642822
+196,"Sooner or later Three brothers, three castles.","Sooner or later three brothers, three castles.",0.14285714285714285,5.196213483810425
+197,"The sandwich comes with ham, cheese, tomatoes, mayonnaise, pickles.","The sandwich comes with ham, cheese, tomatoes, mayonnaise, pickles.",0.0,5.526710271835327
+198,It is made by mounting a sidecar to a regular bicycle.,Is made by mounting a sidecar to a regular bicycle.,0.18181818181818182,5.359099864959717
+199,Touchscreens do not provide haptic feedback.,Text screens do not provide haptic feedback.,0.3333333333333333,5.201335668563843
+200,It was a tent like many at the oasis.,It was a tent like many at the Oasis.,0.1111111111111111,5.305737733840942
+201,"The episode ""Father's Day"" depicts two younger versions of Jackie also played by Coduri.",[inaudible],1.0,5.116081953048706
+202,"Within his genre, Di Giorgio is respected for his highly technical playing skills.","Within his genre, Di Giorgio is respected for his highly technical playing skills.",0.0,5.529351472854614
+203,"Fouls, on the other hand, can occur only while the ball is in play.",Balls on the other hand can occur only while the ball is in play.,0.14285714285714285,5.552056789398193
+204,"In pure vacuum, some weak scattering of light by light exists as well.",In pure vacuum some weak scattering of light by light exists as well,0.15384615384615385,5.428414344787598
+205,"""ReBoot"" has been the recipient of several awards.",Reboot has been the recipient of several awards.,0.125,5.137718200683594
+206,"Since leaving office, he has also attended a number of other events of significance.",Since living of his years attended a number of other events of the unique kinds.,0.5714285714285714,5.568913459777832
+207,"""Fatima,"" the girl said, averting her eyes.","Fatima the girl said, aborting her eyes.",0.2857142857142857,5.334383010864258
+208,"Hey Lucy, have you remembered the lyrics for the anthem yet?","Hey Lucy, have you remembered the lyrics from the anthem yet?",0.09090909090909091,5.425205707550049
+209,"It was named for Judson LaMoure, a state legislator.","Who is named for Judson or Moore, a state legislator?",0.5555555555555556,5.444947957992554
+210,Indeed the scene was very beautiful.,[ Silence ],1.0,9.434734344482422
+211,The ocean surrounding the islands is covered with ice most of the year.,The ocean surrounding the islands is covered with ice most of the year.,0.0,5.369998931884766
+212,Are you sure that is exactly what happened?,Are you sure that it is exactly what happened?,0.125,5.256563425064087
+213,A remixed and remastered edition of Sluggo!,A remixed and remastered edition of Slago.,0.14285714285714285,5.349271535873413
+214,She also taught journalism at the University of California at Berkeley.,She also taught journalism at the University of California at Berkeley.,0.0,5.362926959991455
+215,"In the public imagination, however, Henson became synonymous with Uncle Tom.","In the public imagination, however, Henson became synonymous with Uncle Tom.",0.0,5.429216623306274
+216,The University is a member of several organizations of colleges and universities.,The University is a member of several organizations of colleges and universities.,0.0,5.409395933151245
+217,Henry Ford donated much of the necessary land as did many local farmers.,Henry Ford donated much of the necessary land as did many local farmers.,0.0,5.418757677078247
+218,"The current competition includes ""V Jump"" and ""Saikyo Jump"".",Decorate competition includes VJEP and PsychoJEP.,0.6666666666666666,5.336987495422363
+219,No one has ever done it before.,No one has ever done it before.,0.0,5.180833578109741
+220,What game do you want to play?,What game do you want to play?,0.0,5.2188615798950195
+221,The completed chartering contract is known as a charter party.,The completed chaudering conduct is known as chaudelpati.,0.5,5.437933444976807
+222,Its shape and coloration is reminiscent of a brown trout.,Its shape and coloration is reminiscent of a brown trout.,0.0,5.356714248657227
+223,"Maybe the church, with the sycamore growing from within, had been haunted.",Maybe the church with the sycamore growing from within had been haunted.,0.16666666666666666,5.47955846786499
+224,It is important to note that not all postcards had images made by Haberkorn.,It is important to note that all postcards had images made by Havikon.,0.14285714285714285,5.525562047958374
+225,The album was well received by several critics.,The album was well received by several critics.,0.0,5.224020481109619
+226,She also is a faculty member at the Tanglewood Music Center.,She also is a faculty member at the Tanglewood Music Centre.,0.09090909090909091,5.348184823989868
+227,There are three amino acid residues responsible for this G to M phase transition.,There are three amino acid residues responsible for this G to M phase transition.,0.0,5.461421966552734
+228,Modern traditions focus on sharing and social bonds.,Modern traditions focus on sharing and social bonds.,0.0,5.171551465988159
+229,I'll go right after it.,I will go right after it.,0.4,4.893484354019165
+230,You will need to know to build your own custom environment.,You need to know to build your own custom environment.,0.09090909090909091,5.102374076843262
+231,An awesome picture of a young woman jumping in the air,An awesome picture of a young woman jumping in the air.,0.09090909090909091,4.985267877578735
+232,"Sure, see you there!","Sure, see you there!",0.0,4.8350441455841064
+233,The bridge remained closed for the next two years.,The bridge remained closed for the next two years.,0.0,4.9405598640441895
+234,Did you hear anything?,Did you hear anything?,0.0,4.808306694030762
+235,Some concurrent programming models include coprocesses and deterministic concurrency.,Some concurrent programming models include code processes and deterministic concurrency.,0.2222222222222222,5.062939167022705
+236,"Major bodies of water include Lake Shastina, Dwinnell Reservoir and Trout Lake.",Major bodies of water include Lake Shistina to Annelle Reservoir and Trout Lake.,0.25,5.238557815551758
+237,Some storms are worth the wreckage.,Some songs are worth the wreckage.,0.16666666666666666,4.8755762577056885
+238,five,Bye!,1.0,4.7293431758880615
+239,Alcoholics may also require treatment for other psychotropic drug addictions and drug dependences.,Our colleagues may also require treatment for other psychotropic drug addictions and drug dependence.,0.23076923076923078,5.175285577774048
+240,The vamp of the shoe had a gold buckle.,The vamp of the shoe had a gold buckle.,0.0,4.973083972930908
+241,Have you been to Japan?,Have you been to Japan?,0.0,4.832428932189941
+242,This convention is a natural.,This convention is a natural.,0.0,4.857108116149902
+243,"Unfortunately, there's not enough of that to be found in this game.","Unfortunately, there is not enough of that to be found in this game.",0.16666666666666666,5.262376070022583
+244,So he decided to choose the area for opening up for cultivation.,"So, he decided to chose the opening open for cultivation.",0.4166666666666667,5.0606138706207275
+245,three,Three.,1.0,4.743346691131592
+246,"The final medal tally was led by host Vietnam, followed by Thailand and Indonesia.",The final medal tally was led by host Vietnam followed by Thailand and Indonesia. Full stop.,0.21428571428571427,5.193164587020874
+247,The tea was a little bit too hot.,The tea was a little bit too hot.,0.0,4.925499677658081
+248,"Sisters Kimberly and Tiffany, and brother Ryan.",Sisters Kimberly and Tiffany and brother Ryan.,0.14285714285714285,4.900018692016602
+249,It is the only Paxton Township statewide.,It is only Paxton Township statewide.,0.14285714285714285,4.954073190689087
+250,"Followers of Glabados use the word ""Faram"" to affirm their prayers.",followers of collaborative use the word for them to affirm their prayers.,0.36363636363636365,5.017912149429321
+251,After having advertised wine he sells vinegar.,after having advertised wine he sells vinegar,0.2857142857142857,4.8923680782318115
+252,It continues as a tollway until its terminus in Hillside.,It continued as a toe light until it's 10 minutes and heels on.,0.9,5.223737001419067
+253,Her mom took her to the judo class at four o'clock.,*mumbling*,1.0,5.172245025634766
+254,Thailand turned out to be a very satisfying holiday.,Thailand turned out to be a very satisfying holiday.,0.0,4.9576194286346436
+255,"The series' writers included McGovern, Danny Brocklehurst, Alice Nutter and Shaun Duggan.","The series writers included McGovern, Danny breakfast, Andy Snarter and Sean Duggan.",0.4166666666666667,5.17802619934082
+256,"The towerblock pictured is the south face of Kestrel House on City Road, London.",The tower block picture is the south face of Kestrel House on City Road London.,0.2857142857142857,5.220808267593384
+257,It is next to Burnhamthorpe Collegiate Institute and the Burnhamthorpe Square office complex.,It is next to Burnhamter Collegiate Institute and the Burnhamter Square Office Complex.,0.3076923076923077,5.304685831069946
+258,"However, he never fully recovered from his wounds and died relatively early.",And he never really followed from his dark relative entirely.,0.6666666666666666,4.993490934371948
+259,His first trainers was Vitaliy Khmelnytskyi.,His first prayers were very much a nensky.,1.0,5.273375511169434
+260,Talk is a crucial link between parents and children.,Talk is a crucial link between parents and children.,0.0,4.974852085113525
+261,Morse found fame relatively late in life.,Morse found fame relatively late in life.,0.0,4.9368226528167725
+262,Arizona Republican State Senator Karen Johnson joined the protest in support.,Arizona Republican State Senator Karen Johnson joined the protest in support.,0.0,5.038768768310547
+263,Like an old fire horse.,Like and vote for a horse.,0.8,4.871851444244385
+264,zero,Zero.,1.0,4.74540114402771
+265,Following is a list of civil wars in ancient Rome.,Following is the last civil wars in ancient Rome.,0.3,4.959763050079346
+266,"Originally, the finale for the sixth season was promoted as a cliff-hanger.",originally the finale for the sixth season was promoted as a clip changer,0.25,5.098318815231323
+267,I notice you still remember it.,[ Inaudible ],1.0,4.863081455230713
+268,The Atbara flows only while there is rain in Ethiopia and dries very rapidly.,The Adbara flows only while there is rain in Ethiopia and dries very rapidly.,0.07142857142857142,5.204856634140015
+269,The most successful athletic program is wrestling.,The most successful athletic program is wrestling.,0.0,4.944247245788574
+270,"At these dimensions, it is large enough to be seen from space.","At these dimensions, it is large enough to be seen from space.",0.0,5.059802770614624
+271,The Internet is built upon many protocols which complement each other perfectly.,The internet is built upon many protocols which complement each other perfectly.,0.08333333333333333,5.043523550033569
+272,Wait for the end of the war.,Wait for the end of the rule.,0.14285714285714285,4.911889314651489
+273,"Finally, the Beatles began playing at the Jac on occasions.","Finally, the Beatles began playing at the Jack on occasions.",0.1,5.052023649215698
+274,Krasnov.,Krasnod.,1.0,4.805907249450684
+275,His grandmother Diana Davison was one of the first female racing drivers in Australia.,His grandmother Diana Davison was one of the first female racing drivers in Australia.,0.0,5.1503846645355225
+276,Drake grew up in Texas.,Drake grew up in Texas.,0.0,4.882670164108276
+277,Pindari river later joins Alaknanda river at Karnaprayag.,Pindari River later joins Lappananda River at Karnapriyak.,0.5,5.174759864807129
+278,A snapshot can also be saved permanently to Venti.,A snapshot can also be saved permanently to Venti.,0.0,4.990314483642578
+279,"""This desert was once a sea,"" he said.","This desert was once a sea, he said.",0.25,4.950090169906616
+280,"It included a new production of ""Passion"" directed by Jamie Lloyd.","It included a new production of Passion, directed by Jamie Lloyd.",0.09090909090909091,5.024667024612427
+281,A handsome shoe often pinches the foot.,A handsome shoe often pinches the foot.,0.0,4.9359142780303955
+282,He voyaged on a ship called The Beagle.,He voyaged on a ship called the Beagle.,0.125,5.006456613540649
+283,Hartings is one of ten children.,Hartingsley is one of 10 children.,0.3333333333333333,4.928386211395264
+284,The whole country supplied the labor necessary for building the temple.,The whole country supplied the labor necessary for building the temple.,0.0,5.004874229431152
+285,And the big Persian knew of his existence before he did of hers.,And the big Persian knew of his existence before he did of hers.,0.0,5.067353010177612
+286,How could I make runs?,How could I make runs?,0.0,4.851881504058838
+287,"But after Musial injured his pitching arm, his career was in serious jeopardy.","Good afternoon, Silent. You're this pitching arm. His career was in serious jeopardy.",0.5384615384615384,5.212604522705078
+288,The bid price was per coach.,The big prize was per poach.,0.5,4.938642740249634
+289,"I can reassure you, that we won't retreat until the peace is secured.",I can reassure you that we won't retreat until the piece is secured.,0.15384615384615385,5.228946924209595
+290,I don't blame you.,I don't blame you.,0.0,4.980398416519165
+291,"He is reserved and serious, which is a further mark of respectability.","He is reserved and serious, which is a further mark of respectability.",0.0,5.105320453643799
+292,It is a member of the plastocyanin family of copper-binding proteins.,It is a member of the last of I clean and they are copper bonding protein.,0.9090909090909091,5.278610467910767
+293,My dad is a Republican.,But that is a Republican.,0.4,4.843284368515015
+294,Good playgrounds have much more to offer than swings and slides.,Good playgrounds have much more to offer than streams and slides.,0.09090909090909091,5.042922258377075
+295,The region remains neglected by the state government and the district administration.,The region remains neglected by the state government and the district administration.,0.0,7.589440822601318
+296,"The beer was more than just refreshing, it was delicious.","The beer was more than just refreshing, it was delicious!",0.1,5.0146164894104
+297,Near the beachouse is a large modern playground.,Near the beach house is a large modern playground.,0.25,4.9660866260528564
+298,No change is permissible in regard to festivals and dates.,No change is permissible in regards to festivals and dates.,0.1,5.109182596206665
+299,It also has a visitor center and an interpretive exhibit.,It also has a visitor center and an interpretive exhibit.,0.0,5.041812896728516
+300,"Sorry, the test period expired.",Sorry the test period expired.,0.2,4.871883153915405
+301,And it's a six minute video!,And it is a six minute video.,0.5,4.961758852005005
+302,He held the office of Captain of the Royal Company of Archers.,He held the office of captain of royal company of artists.,0.4166666666666667,5.215890645980835
+303,"He was born in Bramley, Yorkshire and educated at Leeds Grammar School.","He was born in Bramley, Yorkshire and educated at Leeds Grammar School.",0.0,5.4778053760528564
+304,"After the last patient left, the doctor carefully washed her hands.","After the last patient left, the doctor carefully washed her hands.",0.0,5.34588885307312
+305,"As the player grows closer to Pikachu, more activities become available.","As the plier grows closer to Pikachu, more activities become available.",0.09090909090909091,5.326689004898071
+306,"However, there are some issues that came out full colored to celebrate certain anniversaries.","However, there are some issues that came out full color to celebrate certain anniversaries.",0.07142857142857142,5.558743476867676
+307,Also at Allen Park is the relocated Tom Collins House.,Also with Allen Park is the relocated Tom Collins house.,0.2,5.331504821777344
+308,It is private property and not open to the public.,It is private property and not open to the public.,0.0,5.272599935531616
+309,"Surrounding the lake are modern housing estates, such as Lakeview Estate.",Surrounding the lake are modern housing estates such as Leadview Estate.,0.18181818181818182,5.509819269180298
+310,What do you want me to say?,What do you want me to say?,0.0,5.152859449386597
+311,The Dawes brothers of Marietta founded the Pure Oil Company.,The Dave's Brothers of Marietta founded the Pure Oil Company.,0.2,5.370510578155518
+312,The forest burned for thirteen days.,The forest born for 13 days.,0.3333333333333333,5.204283952713013
+313,"He kept driving at full speed, totally unfazed by the flap, flap, flap of the burst tyre.","He can drive in and press ""Pit Italian"" face by the face, like the one on the other side.",0.8823529411764706,6.543542385101318
+314,"To enable this, the Linux kernel should be compiled with the corresponding option enabled.","To enable this, the Linux kernel should be compiled with a corresponding option enabled.",0.07142857142857142,5.50776219367981
+315,What did you say your name was?,What did you say your name was?,0.0,5.190162420272827
+316,"Public facilities, as precautionary measures, were closed.",Public facilities as precautionary measures were closed.,0.2857142857142857,5.197434663772583
+317,I accuse this man of being a faker!,I accuse this man of being a faker.,0.125,5.282467842102051
+318,There was a loud shriek from a woman standing behind us.,There was a loud shriek from a woman standing behind us.,0.0,5.373227596282959
+319,Neither does she appear in the Ordnance Survey memoir for Carrickfergus.,Neither does she appear in the Ordnance Survey Memora for Carrick's Burgers.,0.2727272727272727,5.5921735763549805
+320,The prototype was converted into a factory fire engine for the Peugeot plant.,The prototype was converted into a factory fire engine for the Peugeot Plan.,0.07692307692307693,5.3282928466796875
+321,It's Not Dylan!,It's not Dila.,0.6666666666666666,5.101749897003174
+322,"His hands began to tremble, and the woman sensed it.",His hands began to tremble and the woman sensed it.,0.1,5.337140083312988
+323,I thought you knew.,I thought you knew.,0.0,5.042865991592407
+324,"The town's school system is united with neighboring Warren, Rhode Island.",The town school system is united with neighboring Warren Road Island.,0.2727272727272727,5.333133220672607
+325,New religious orders began to be introduced into England.,New religious orders began to be introduced into England.,0.0,5.2773659229278564
+326,They sometimes have a central tune which some of the strains are based on.,They sometimes have a central tune which some of the strains are based on.,0.0,5.4677934646606445
+327,"You might hear ""font families"" more than ""typefaces"", even though they could mean the same thing.",You might hear families more than typefaces even though they mean the same thing.,0.25,5.488394498825073
+328,A man with a white beard is writing in a book while two women look on,A man with white belt is written in a book while two women look on.,0.25,5.4748358726501465
+329,"Blackmar, Life of Chas.",Let my life of chance,1.0,5.099146604537964
+330,His mother was of part German descent.,His mother was of par German descent.,0.14285714285714285,5.2129600048065186
+331,Charly was now alone.,Charlie was now alone.,0.25,5.071101427078247
+332,All tracks written by Alexandra Savior.,All tracks written by Alexander Savoore,0.3333333333333333,5.1694560050964355
+333,The best method is to fix it in place with clips.,The best method is to fix it in place with clips.,0.0,5.354430675506592
+334,Team event was cancelled.,Gene event was cancelled.,0.25,5.082175254821777
+335,"Oh, what is it?","Wow, what is it?",0.25,5.139971971511841
+336,I wrote my bachelor thesis with latex.,I wrote my bachelor thesis with latex.,0.0,5.190615177154541
+337,I've stuck it back together.,I have stuck it back together.,0.4,5.156630516052246
+338,Japanese chemical weapons were later found mixed with Soviet and Chinese chemical weapons.,Japanese chemical weapons were later found mixed with Soviet and Chinese chemical weapons.,0.0,5.417155742645264
+339,It's not one of those complicated things.,(speaking in foreign language),1.0,5.321255922317505
+340,He is an active Christian.,He is an active Christian.,0.0,5.117074728012085
+341,It is the most valuable stamp in the world.,It is the most valuable stamp in the world.,0.0,5.251099348068237
+342,The Dutch and the French were the first jute traders.,The Dutch and French were the first G-traders.,0.3,5.366575479507446
+343,Her husband joined with her in establishing a law firm together.,Her husband joined with her in establishing a law firm together.,0.0,5.30341362953186
+344,"However, it can corrode some metals and so must be stored and transported carefully.","However, it can corrode some metals and so must be stored and transported carefully.",0.0,5.5394837856292725
+345,He did this by obscuring the reflector with a mask containing two vertical slits.,Visit this by obscuring the reflectors with a mask containing two vertical slits.,0.21428571428571427,5.382108449935913
+346,Don't advertise: Tell it to a gossip.,"Don't advertise, tell it to a gossip.",0.2857142857142857,5.242339611053467
+347,"Further, there is no mention of the comet in Chinese literature of the time.","Further, there is no mention of the comet in Chinese literature of the time.",0.0,5.472261190414429
+348,He graduated in law at Warsaw University.,He graduated in law at Warsaw University.,0.0,5.1325523853302
+349,Most of his works feature animals.,Most countries work with children.,0.8333333333333334,5.162242412567139
+350,He was born at Landsberg on the Lech.,He was born at Landsberg on the Lesch.,0.125,5.315467357635498
+351,He finished his studies at the French Press Institute.,He finished his studies at the French Press Institute.,0.0,5.309173822402954
+352,The quickening of time,The good cleaning of time,0.5,5.248703479766846
+353,Four hundred and fifty dollars.,Slick off the consistus garbage.,1.0,5.559057235717773
+354,We've got to walk up to the tower.,We got to walk up to the fair!,0.25,5.616243600845337
+355,The win was one of only two for the Saints in that dismal season.,The win was one of only two forces sent in this man's season.,0.35714285714285715,5.5149242877960205
+356,The plastic barrier shattered.,The plastic barriers shattered.,0.25,5.04941987991333
+357,This song was meant to make the general public aware of heroes.,This song was meant to make the general public aware of heroes.,0.0,5.371509075164795
+358,She rose to her feet.,She rolls to her feet.,0.2,5.127803325653076
+359,Marcy helps with completing the third temple where she happily reunites with Sasha.,Masi helps with completing the top 10 for where she happily reunites with Sasha.,0.3076923076923077,5.528293609619141
+360,Acceleration of time.,acceleration of time,0.6666666666666666,5.04459547996521
+361,"It was seen early in the morning, rushing over eastward.","It was seen early in the morning, Russian power eastward.",0.2,5.338440418243408
+362,"""Lead dogs"" steer the rest of the team and set the pace.","Leave dogs, steer the rest of the team and set the pace.",0.16666666666666666,5.433974027633667
+363,"It is found in the Indian subcontinent, China, and Southeast Asia.","It is found in an Indian subcontinent, China and Southeast Asia.",0.18181818181818182,5.424195051193237
+364,"""Getting to play someone as unrestricted as a vampire is a thrill,"" she says.","Getting to play someone as unrestricted as vampire is a thrill, she says.",0.21428571428571427,5.504980564117432
+365,"A man holding a newborn baby in a blue, pink, and white blanket.","A man holding a newborn baby in a blue, pink, and white blanket.",0.0,5.516493797302246
+366,One week later she was released after successfully appealing her arrest.,One week later she was released after successfully appealing her arrest.,0.0,5.355079174041748
+367,WaterFire now enjoys national and international renown.,Raptor Fire now enjoys national and international renown.,0.2857142857142857,5.2083587646484375
+368,An huge hole had been made by the impact of the projectile.,And a huge hole had been made by the backdrop project.,0.5,5.374719142913818
+369,At the boundary between Gorton and Audenshaw it continues as Manchester Road.,"At the boundary between Gordon and Ordon's show, it continues as Manchester's role.",0.4166666666666667,5.401350498199463
+370,She must have noted your lack of appetite.,She must have noted your lack of appetite.,0.0,5.2410736083984375
+371,Lemme have the Desk.,Let me have the desk.,0.75,5.049954891204834
+372,He fled but only got as far as Greenwich before being captured.,"He fled, but only got as far as Greenwich before being captured.",0.08333333333333333,5.402127265930176
+373,The village has an independent pre-preparatory school which caters for reception to year-two students.,The village has an independent pre-preparatory school which caters for reception to year 2 students.,0.14285714285714285,5.650678634643555
+374,Katsande and her son were accused of voter intimidation.,Cat's sand and her sun were accused of voter intimidation.,0.3333333333333333,5.270432233810425
+375,"In the Regionalliga Nord, the fourth-to-last team will also be demoted.","In the regionally ignored, the 4th to last team will also be demoted.",0.45454545454545453,5.536422491073608
+376,The old man said nothing.,The old man said nothing.,0.0,5.155951261520386
+377,Its administrative centre was Valuyki.,Its administrative center was Valyuki.,0.4,5.21354603767395
+378,"The instruments have names like ""exhaustaphone"", ""tank bass"", ""doorimba"", ""tube flute"", and ""percarsion"".","The instrument had names like is telephone, tank bags, dorimba to be flout and percussion.",0.8461538461538461,5.745680093765259
+379,How can I thank you?,How can I thank you?,0.0,5.134139060974121
+380,You do it.,You do it.,0.0,5.020123720169067
+381,Remind me to send another email.,remind me to send another email,0.3333333333333333,5.164529800415039
+382,The quick fox jumped on the sleeping cat.,The quick box jumped on the sleeping cat.,0.125,5.2042810916900635
+383,"Also, oil and coal have hidden costs that others have to pay.","Also, oil and coal have hidden costs that others have to pay.",0.0,5.405665159225464
+384,Sell your gift to a buyer at a good gain.,seller gift to a buyer at a good gain.,0.2,5.250143051147461
+385,"It is a rare example of King post, and timber frame roof architecture.",8 is a rare example of king post and timber frame roof architecture.,0.23076923076923078,5.368937015533447
+386,This swallow is twittering without Internet connection and has a swarm of followers.,This swallow is tutoring without internet connection and has a swarm of followers.,0.15384615384615385,5.479496955871582
+387,"In this game knights ""relay"" their power to friendly pieces.","In this game, knights rely your power to friendly pieces.",0.3,5.307085990905762
+388,"I can reassure you, that we won't retreat until the oil until the peace is secured.","I can reassure you that we won't retreat until the oil, until the piece, is secured.",0.1875,5.54780387878418
+389,"As a young boy, Woo had wanted to be a Christian minister.","As a young boy, Wu had wanted to be a Christian minister.",0.08333333333333333,5.281753301620483
+390,He played for the youth categories of Real Betis.,He played for the youth categories of real bettas.,0.2222222222222222,5.3342907428741455
+391,"Yes, this is the right place.","Yes, this is the right place.",0.0,5.195700407028198
+392,It drew a droplet of blood.,Eat through a droplet of blood.,0.3333333333333333,5.147054433822632
+393,"These expectations, however, never happened.",These expectations were never happening.,0.6,5.085155248641968
+394,Bill decided that management should know about this incident.,Bill decided that management should know about this incident.,0.0,5.22515344619751
+395,The oldest superstring theory containing open strings was type one string theory.,The oldest stupid string theory contained open strings was taught one string theory.,0.3333333333333333,5.424851894378662
+396,Modern brunost does not contain significant amounts of iron.,efficiency.,1.0,5.0114076137542725
+397,He was a member of the World Economic Forum in Davos.,He was a member of the World Economic Forum in Davos.,0.0,5.331126689910889
+398,"Except from the last two, the other villages had been physically integrated into Laredo.","Except from the last two other images, I had been physically venting a bit into the rainbow.",0.6428571428571429,5.5876734256744385
+399,Later they were thought to be deposits of volcanic ash or streaks of dust.,"Later, they were thought to be deposits of volcanic ash or streaks of dust.",0.07142857142857142,5.430501937866211
+400,We lit the lantern and walked over to his house.,We lit the lantern and walked over to his house.,0.0,5.299973487854004
+401,The municipality consists of many islands.,The municipality consists of many islands.,0.0,5.181173086166382
+402,The studio did not devote any marketing effort toward it.,The studio did not devote any marketing effort toward it.,0.0,5.334386110305786
+403,"Perhaps, you should just grow sea monkeys.",[INAUDIBLE],1.0,5.519834280014038
+404,Where did you come from?,Where did you come from?,0.0,5.099558591842651
+405,The Slavic immigrants came to Bohemia with excellent cigar-making skills.,The Slavic immigrants came to Bohemia with excellent cigar making skills.,0.2,5.387139558792114
+406,To err is human To forgive divine.,12. To forgive divine.,0.5714285714285714,5.403409719467163
+407,A bird in hand is worth two in the bush,"Aburgant man, the worst two in the bush.",0.7,5.293967247009277
+408,"For example, the District of A'ana has its capital at Leulumoega.","For example, the district of Anna has its capital Louis-Lumorega.",0.36363636363636365,5.435539960861206
+409,The ridge divides the Vigan-Bantay Plain into northern and southern plains.,The ridge divides the Vaigen-Bante plain into northern and southern plains.,0.18181818181818182,5.518182992935181
+410,"Soon ripe, soon rot.","Soon drive, soon dot.",0.5,5.192931175231934
+411,The Teesta River is one of the rivers that has changed over the years.,The Tester River is one of the rivers that has changed over the years.,0.07142857142857142,5.491305828094482
+412,He captains the Turkey national team.,He captains the Turkey national team.,0.0,5.147479295730591
+413,"Hamilton quaternions can be used to replace many matrices, but not to represent view frustums.","Hamilton quaternions can be used to replace many matrices, but not to represent few frost rooms.",0.2,5.5019917488098145
+414,two,Do,1.0,5.0856711864471436
+415,A train line used to run up to Hidaka along the Saru River.,A train line used to run up to Hiddeka along the Sarah River.,0.15384615384615385,5.466522455215454
+416,What are you talking about?,What are you talking about?,0.0,5.099082946777344
+417,He is of Tujia heritage.,It is a very heritage.,0.6,5.383100748062134
+418,I think they perceived that nothing was to be done at the moment.,I think they've said that playing is done at the moment.,0.46153846153846156,5.372591495513916
+419,"Love me, love my dog.",Love me. Love my dog.,0.4,5.187162637710571
+420,Pran Nath was born into a wealthy family in Lahore in present-day Pakistan.,Quran Naq was born into a wealthy family in Lahore in present day Pakistan.,0.3076923076923077,5.5257580280303955
+421,"This part of the town was half residential, half industrial.","This part of the town was half residential, half industrial.",0.0,5.379143714904785
+422,"With skin and hair completely, thoroughly out and out.","With skin and hair completely, thoroughly out and out.",0.0,5.292250394821167
+423,We dont want him!,We don't want him.,0.5,5.097090721130371
+424,They have two adult sons.,They have two adult songs.,0.2,5.095357418060303
+425,But they were not there.,But they were not there.,0.0,5.158583879470825
+426,The event is supposed to be plastic free zone.,The event is supposed to be plastic free zone.,0.0,5.282904624938965
+427,But that was simply because my eye was tired.,But that was simply because my eye was tired.,0.0,5.267569541931152
+428,Solar seems like a good replacement.,Solar seems like a good replacement.,0.0,5.156372785568237
+429,"During that period, Mercedes also developed a streamlined car with monocoque construction.","During that period, Mercedes also developed a streamlined car with monocoque construction.",0.0,5.374457359313965
+430,"""Good-bye,"" said the boy.","Goodbye, sad boy.",0.75,5.075173377990723
+431,What would you say is the difference between a language and a dialect?,What would you say is the difference between a language and a dialect?,0.0,5.3603386878967285
+432,Some ads serve to cheat buyers.,Some ads serve to cheat buyers.,0.0,5.134919881820679
+433,I would have won the Junior Olympics if not for those medaling kids.,I have won the junior Olympics if not for those meddling kids.,0.23076923076923078,5.411871433258057
+434,The album received critical acclaim from several newspapers.,"Now, we've received critical acclaim from several newspapers.",0.25,5.321282863616943
+435,She works in the flower shop of her aunt.,She works in the flower shop of her aunt.,0.0,5.215531826019287
+436,"It is located in the Loop, across Michigan Avenue from Millennium Park.",It is located in the Loop across Michigan Avenue from Millennium Park.,0.08333333333333333,5.29970908164978
+437,"No, but it is nice to meet you.","No, but it is nice to meet you.",0.0,5.265217065811157
+438,"Due to the expense of production, it is not being used for this purpose.","Due to the expense of production, it is not being used as purpose.",0.14285714285714285,5.470556735992432
+439,Potts eventually chaired the Senate Education and Health Committee.,but eventually chaired the Senate Education and Health Committee.,0.1111111111111111,5.239382266998291
+440,"Philip then tells his parents that he was suspended for ""singing"" the National Anthem.",Philip then tells his parents that he was suspended for singing the national anthem.,0.21428571428571427,5.438729524612427
+441,I assume this was your doing?,I assume this was your doing?,0.0,5.120803117752075
+442,Mosjoukine was officially married three times.,monster keen was officially married three times,0.5,5.243360996246338
+443,A monument to honour him exists in the village.,A monument to honor him exists in the village.,0.1111111111111111,5.293134927749634
+444,They lost to Albany in the first round of the America East Tournament.,He lost to Albany in the first round of the American Astronaut.,0.3076923076923077,5.3138039112091064
+445,"The sea has lived on in this shell, because that's its destiny.",The sea has lived on in this show because that's its destiny.,0.08333333333333333,5.361959218978882
+446,Mostly just the hearts of those who are trying to realize their destinies.,Mostly just the hearts of those who are trying to realize their destinies.,0.0,5.510769367218018
+447,"But instead of being saddened, he was happy.",Thank you.,1.0,5.030157089233398
+448,Ren Ozawa was removed from the cast following his domestic abuse allegations.,Ren Zaur was removed from the cast following his domestic abuse allegations.,0.08333333333333333,5.448354244232178
+449,Where can i find the supreme leader?,Where can I find the Supreme Leader?,0.42857142857142855,5.181095361709595
+450,His father was Mathai.,His father was Madhai.,0.25,5.0797460079193115
+451,four,Four. Four. Four.,3.0,5.150820016860962
+452,He co-discovered a couple of comets.,He cold discovered a couple of comments,0.5,5.224802732467651
+453,Can we please leave now?,Can we please leave now?,0.0,5.10172963142395
+454,"He was arrested within days, placed on trial and found guilty.",He was arrested within days placed on trial and found guilty.,0.09090909090909091,5.238547086715698
+455,Every search begins with beginner's luck.,Every search begins with beginner's look.,0.16666666666666666,5.187487602233887
+456,Production assistants on films are sometimes attached to individual actors or filmmakers.,Production assistance on flims are sometimes attached to individual actors or flim makers.,0.3333333333333333,5.481389284133911
+457,The area around Megali Sterna consists mostly of agricultural land.,So your ROW Mega Lee Stoner consists mostly of output control and,0.9,5.880425930023193
+458,"It was later revealed that the letter was a prank concocted by ""The eXile"".","It was later revealed that the letter was a prank, concocted by the exile.",0.21428571428571427,5.525716304779053
+459,No news is good news.,No news is good news.,0.0,5.125522613525391
+460,What is it all about?,What is it all about?,0.0,5.110413074493408
+461,The alchemist followed as the boy's horse ran for almost half an hour.,The alchemist followed as the boy's horse ran for almost half an hour.,0.0,5.431001663208008
+462,Take them or leave them.,Take them or leave them.,0.0,5.150835990905762
+463,Where are the others?,Where are the others?,0.0,5.073736667633057
+464,He postulated a dispersion theory before his coworker made his discovery and announcement.,He postulated a dispersion theory before his co-worker made his discovery and announcement.,0.07692307692307693,5.531742334365845
+465,Sylvester needed to meditate to clear his mind.,Sylvester needed to meditate to clear his mind.,0.0,5.323369026184082
+466,"Olivia, have you seen my keys?","Olivia, have you seen my keys?",0.0,5.193870544433594
+467,The borough council's main office is at Cobalt Business Park in Wallsend.,The Borrow Council's main office is at Cobalt Business Park in Walsand.,0.25,5.544368743896484
+468,Luis falls passionately in love with his new wife.,Louis falls passionately in love with his new wife.,0.1111111111111111,5.261630296707153
+469,Do you think we will ever find a cure for cancer?,Do you think we will ever fight a curve for cancer?,0.18181818181818182,5.225527286529541
+470,"If you know your heart well, it will never be able to do that to you.","If you know your art well, it will never be able to do that for you.",0.125,5.510549306869507
+471,I find crumpets totally repulsive and disgusting.,I find crumpets totally repulsive and disgusting.,0.0,5.260458707809448
+472,Hey,Hey!,1.0,4.945438861846924
+473,He learned to play the harmonica from his father.,He learned to feed the harmonica from his father.,0.1111111111111111,5.2826690673828125
+474,Where did the clouds come from?,Where did the clouds come from?,0.0,5.1932618618011475
+475,"Although everything should be under the state's control, there is a lot of violence in prisons.","Although everything should be under the state's control, there is a lot of violence in prisons.",0.0,5.63191556930542
+476,"That's the sub-foreman, explained Thorpe.",That's the Sun for the Man that's Bling taught me.,1.6,5.21732234954834
+477,"I'm sorry, I can't help you.",I'm sorry I can't help you.,0.16666666666666666,5.233914852142334
+478,"Well, what of that?","Well, what was that?",0.25,5.123202562332153
+479,"According to Catholic doctrine, the baby may not be killed.","According to the Catholic doctrine, the baby may not be killed.",0.1,5.3685972690582275
+480,Target was set to open in October.,Target was set to open in October,0.14285714285714285,5.235642910003662
+481,At least forty-one protesters were killed in the ensuing engagement.,At least 41 protesters were killed in the news in the Indian mood.,0.6,5.379249811172485
+482,"Cold hands, warm heart.","Cold hands, warm heart.",0.0,5.13708758354187
+483,It was my fear of failure that first kept me from attempting the Master Work.,It was my fear of failure that first kept me from attempting the masterwork.,0.13333333333333333,5.507568120956421
+484,Once these roots reach the ground they grow into woody trunks.,"Once these roots reach the ground, they grow into woody trunks.",0.09090909090909091,5.752475738525391
+485,What could it be?,What could it be?,0.0,5.100719928741455
+486,He just got a new kite for his birthday.,You just got to look like your birthday.,0.6666666666666666,5.258334636688232
+487,She worked for many years in India.,She worked for many years in India.,0.0,5.203565359115601
+488,"Two years later, online publication extended to include the full text of all articles.",Two years later online publication extended to include the full text of all articles.,0.07142857142857142,5.461294412612915
+489,Surveillance cameras were set to allow police to find suspicious activities.,Surveillance cameras were set to allow police to find suspicious activities.,0.0,5.357671022415161
+490,Are the consequences more humanistic or antihumanistic?,Are the consequences more humanistic or anti-humanistic?,0.14285714285714285,5.249505281448364
+491,How many alcoholic beverages do you consume each week?,How many alcoholic beverages do you consume each week?,0.0,5.252442359924316
+492,While a simple cards made by her sold only for five cents.,while a simple card's made by her sold only for five cents.,0.16666666666666666,5.3505964279174805
+493,Millan was primarily a second baseman.,Millen was primarily a second baseman.,0.16666666666666666,5.18468165397644
+494,They joined the band during the encore.,They joined the band during ten core.,0.2857142857142857,5.157660007476807
+495,Each of the two platforms has sheltered seating.,Each of the two platforms has centred seating.,0.125,5.250338077545166
+496,I thought you would be pleased with them.,I thought you would be pleased with them.,0.0,5.139196872711182
+497,The wound healed faster than anyone expected.,The wound healed faster than anyone expected.,0.0,5.187277793884277
+498,Home is where the heart is.,Home is where the heart is.,0.0,5.147305727005005
+499,East Knox High School is located in Howard.,East Canax High School is located in Huar.,0.25,5.300936222076416
+500,"A trackball and ""jump"" button are used for controlling Bentley Bear's motions.",A trackball and jump button are used for controlling Bentley Bears motions.,0.16666666666666666,5.352573871612549
+501,She helped with the development of the Epigraphy course at the University of Bologna.,She helped with the development of the epigraphy course at the University of Baloga.,0.14285714285714285,5.668031692504883
+502,How do I feel?,How do I feel?,0.0,5.072925567626953
+503,You cannot eat the cake and have it To.,You cannot eat the cake and have it too.,0.1111111111111111,5.332157611846924
+504,"In times of despair, look out for the helpers and you will find hope.","In terms of display, look out for altars. I mean, look out for them.",0.6428571428571429,5.511150360107422
+505,"Habib Wahid was born and brought up in Dhaka, Bangladesh.","Habib Rajeet was born and brought up in Dhaka, Bangladesh.",0.1,5.460368871688843
+506,The center portion of the dam has since been demolished and the reservoir drained.,The center portion of the dam has since been demolished and the reservoir drained.,0.0,5.517273426055908
+507,Did you know that Harry got a new job?,Did you know that Harry got a new job?,0.0,5.412921190261841
+508,I hope you are well!,I hope you are well.,0.2,5.090143442153931
+509,I've never seen her before.,I've never seen here before.,0.2,5.156531810760498
+510,The club is the first non-government owned professional basketball club in China.,The club is the first non-government owned professional baseball club in China.,0.08333333333333333,5.471790313720703
+511,To stuff into their own pockets.,Do stuff into their own pockets.,0.16666666666666666,5.176993370056152
+512,"Down jumped the driver, and out got Mr. Pickwick.","Downchamps, driver, and outgod missed a pick a week.",1.0,5.385603904724121
+513,Somebody threw him off a train.,Somebody threw him off a train.,0.0,5.144147634506226
+514,A little token of appreciation.,A token of appreciation.,0.2,5.27372407913208
+515,"The girl dropped the container, and the water spilled.",The girl dropped the container and the water spilled.,0.1111111111111111,5.280103445053101
+516,It was occupied by the officers below the rank of lieutenant.,It was occupied by the officers below the rank of lieutenant.,0.0,5.325618028640747
+517,Its design was one of the more unusual of Contax's designs.,Its design was one of the more unusual of Contax's designs.,0.0,5.411634683609009
+518,Mango and soursop ice cream are two popular desserts.,Manboo and sour soap ice cream are two popular deserts.,0.4444444444444444,5.411825895309448
+519,There is no support for varying aspect ratios or force feedback controllers.,There is no support for weighing aspect ratios or force feedback controllers.,0.08333333333333333,5.4348413944244385
+520,Lisa is playing the sax.,You just playing the sex.,0.6,5.054551601409912
+521,The town was named after the Spanish term for lumber.,The town was named after this Spanish town called Lumbar.,0.4,5.254452466964722
+522,"He is, however, usually addressed as Lord Stern, or Lord Stern of Brentford.","He is, however, usually addressed as Lord Stern or Lord Stern of Brentford.",0.07692307692307693,5.493154048919678
+523,Doane became the third wife of fellow missionary Rev.,"Doen became a photograph of fellow missionary, Ryo.",0.6666666666666666,5.825389385223389
+524,Sarah told him that she was there to see her brother.,Sarah told him that she was there to see her brother.,0.0,5.265945196151733
+525,"Today, the bar is still family-owned and managed by Jack Dorrian's son, Jimmy.",Today the bar is still family owned and managed by Jack Dorian's son Jimmy.,0.38461538461538464,5.511114597320557
+526,The devil finds work for idle hands.,The devil finds work for idle hands.,0.0,5.18977427482605
+527,"For better physical understanding, let's first recap where the pivot point is.","For better physical understanding, let's first recap where the pivot point is.",0.0,5.389633655548096
+528,He and his family went up north to the Arctic Circle to meet Santa Claus in Finland.,He and his family went up north to the Arctic Circle to meet Santa Claus in Finland.,0.0,5.54736590385437
+529,"The department includes the orchestra, choir, band, visual arts, and theater productions.","The department includes the orchestra, choir, band, visual arts and theater productions.",0.08333333333333333,5.466276407241821
+530,He largely left active politics in his later life to concentrate on writing.,He largely left active politics in his later life to concentrate on writing.,0.0,5.350284099578857
+531,"When the carpet and the curtains caught fire, it was getting warm.","When the carpet and the curtains caught fire, it was getting warm.",0.0,5.362091302871704
+532,The empty flask stood on the tin tray.,Then the flask stooped on the thin tray.,0.5,5.282274484634399
+533,Non-terrestrial applications include study of Solar System moons using space probes.,Non-terrestrial applications include study of solar system wounds using space probes.,0.2727272727272727,5.325423717498779
+534,"The launch was flawless; all systems were ""go"", except for Doctor Wang's experiment.",The launch was flawless. All systems will go except for the doctor van's experiment.,0.5384615384615384,5.508981943130493
+535,Building blocks such as these could be the way forward.,[MUSIC PLAYING],1.0,5.1464855670928955
+536,The author is a blogger and social media phenomenon.,The author is a blogger and social media phenomenon.,0.0,5.334108352661133
+537,The village is not inhabited year-round.,The village is not inhabited year round.,0.3333333333333333,5.254857778549194
+538,Maybe because that wasn't really his dream.,Maybe because that wasn't really,0.2857142857142857,5.196097373962402
+539,"Real schools, secondary schools giving a general practical education.",Real schools secondary schools giving a general medical education.,0.2222222222222222,5.187036752700806
+540,"Compounding this problem, howling winds drive most of its residents mad.","Compounding this problem, Howling means to drive most of the questions mad.",0.45454545454545453,5.464325428009033
+541,Cats whiskers are very sensitive.,Cats' whiskers are very sensitive.,0.2,5.207739353179932
+542,It is situated to the north-west of the town centre.,It's situated to the northwest of the town center.,0.4,5.3713698387146
+543,Investors in Poland enable startups to network with other companies in their portfolios.,Investors in Poland enable startups to network with other companies in their portfolios.,0.0,5.399128675460815
+544,Other cast members include Donna Reed and Barry Nelson.,Other cast members include Donna Reed and Barry Nelson.,0.0,5.29286003112793
+545,"During a campaigning event in an aboriginal community, Ma made a controversial remark.","During a campaigning event in an Aboriginal community, Ma made a controversial remark.",0.07692307692307693,5.3506927490234375
+546,The quadrangle was never completed at the time the College was originally constructed.,The quadrangle was never completed at the time the college was originally constructed.,0.07692307692307693,5.477528095245361
+547,"For centuries after her death, Welshmen cried-out ""Revenge for Gwenllian"" when engaging in battle.","Fourth centuries after her death, Welshmen cried out, ""Revenge for Gwendolyn!"" when engaging in battle.",0.2857142857142857,5.785361289978027
+548,Fall seven times. Stand up eight.,"Four, seven times stand up eight.",0.5,5.202494382858276
+549,The transition was digital.,The transition was digital.,0.0,5.082528591156006
+550,undefined,everything on earth and he vanished around the corner.,9.0,5.240753889083862
+551,"You know, he is an honest man.",You know he is an honest man.,0.14285714285714285,5.157439470291138
+552,"In the United States, his philanthropy largely took the form of educational initiatives.","In the United States, his philanthropy largely took the form of educational initiatives.",0.0,5.328261613845825
+553,I wouldn't take that too seriously.,I wouldn't take that too seriously.,0.0,5.193390607833862
+554,The show then migrated to the Groundlings Theatre in Los Angeles.,The show then migrated to the ground in theater Los Angeles.,0.2727272727272727,5.273644208908081
+555,"Words are, in my not-so-humble opinion, our most inexhaustible source of magic.",Words are in my not so humble opinion most inexhaustible source of magic.,0.4166666666666667,5.577606916427612
+556,It is also used to emulate sounds generated by obsolete electronic equipment.,It is also used to emulate sound generated by obsolete electronic equipment.,0.08333333333333333,5.419666051864624
+557,Cardinal Truchess even suggested the Hosius was a candidate for the papacy.,Cardinal Trutius even suggested though Hocius was a candidate for the papacy.,0.25,5.6211841106414795
+558,The mixture will produce a chlorine solution of approximately five hundred milligrams per liter.,The mixture will produce a chlorine solution of approximately 500 milligrams per liter.,0.14285714285714285,5.503257751464844
+559,This interpretation is not objective.,This interpretation is not objective.,0.0,5.159469842910767
+560,I always end up soft throwing.,I always end up soft throwing,0.16666666666666666,5.100109577178955
+561,"Mayday, we crashed into an iceberg!","Mayday, we crashed into an iceberg.",0.16666666666666666,5.251374959945679
+562,The motorcycle made a loud noise.,The motorcycle made a loud noise.,0.0,5.150189638137817
+563,You're just the one I wanted to see.,You're just the one I wanted to see.,0.0,5.1822779178619385
+564,The boy wanted to believe that his friend had simply become separated from him by accident.,So the boy wanted to believe that this work had simply become separated from the nearby accident.,0.375,5.560041427612305
+565,Have you ever heard the national anthem of South Korea?,Have you ever heard the national anthem of South Korea?,0.0,5.297508716583252
+566,This was stopped by the instruction of the emperor.,This was stopped by the instruction of the Emperor.,0.1111111111111111,5.26941442489624
+567,Lemon said that none of the teams were profitable.,Lemon said that none of the teams were profitable.,0.0,5.211369514465332
+568,"We asked over twenty different people, and they all said it was his.",We asked over 20 different people and they all said it was his.,0.15384615384615385,5.488115549087524
+569,Through training as a sprinter she discovered an interest in weightlifting.,"Through training as a sprinter, she discovered an interest in weight lifting.",0.2727272727272727,5.449221611022949
+570,So I would be the next to go.,So what will the next tool go?,0.625,5.172382593154907
+571,"The Servant sends Leonardo away, and the guests begin arriving for the wedding.",Servants send to Leonardo away and the guests begin arriving for the wedding.,0.3076923076923077,5.399925947189331
+572,His body was returned and buried in Cairo.,"His body was returning, I'm boy and gator.",0.625,5.317522764205933
+573,"When I returned to the common, the sun was setting.","Then I returned to the common, the sun was setting.",0.1,5.288304567337036
+574,A child with a helmet on his head rides a bike.,A child with a helmet on his head rides a bike.,0.0,5.359797954559326
+575,Where have you been this afternoon?,Where have you been this afternoon?,0.0,5.17064356803894
+576,I locked eyes with a fish in the tank.,I luck eyes with a fish in the tank.,0.1111111111111111,5.2565529346466064
+577,"However, other men are looking for the treasure as well.","However, other men are looking forward to Asia as well.",0.3,5.290265083312988
+578,Cohen and Boyer were not initially interested in filing patents on their work.,Kuvan and Boia were not initially interested in filling patterns on the work.,0.38461538461538464,5.3579583168029785
+579,How did you get it?,How do you get it?,0.2,5.132066488265991
+580,President Nicolas Maduro condemned the protest actions.,President Nicholas Maduro condemned the protest actions.,0.14285714285714285,5.148797035217285
+581,Birds from humid regions are darker than those from dry regions.,Birds from humid regions are darker than those from dry regions.,0.0,5.335827350616455
+582,"The name ""Z-Cars"" relates to an imaginary ""Z"" Division of the local constabulary.",The name Z cars relates to an imaginary Z division of the local constabulary.,0.3076923076923077,5.36023736000061
+583,"Meanwhile, Ritchie frantically tries to get a stay of execution.","Meanwhile, Rishi frantically tries to get a stay of execution.",0.1,5.378267288208008
+584,"Right of the interstate, distributing General Electric light bulbs.",Right of the interstate is to put in general electric light bulbs.,0.7777777777777778,5.282400369644165
+585,It doesn't look good.,It does not look good.,0.5,5.10142707824707
+586,Peace be unto you and grace before the Lord.,"Peace be unto you, and grace before the Lord.",0.1111111111111111,5.311233282089233
+587,"If you have to wait until the war is over, then wait.","If you have to wait until the war is over, then wait.",0.0,5.296433448791504
+588,It is owned and managed by members of Bangladesh Police.,It is owned and managed by a member of Bangladesh Pulitzer.,0.3,5.437565326690674
+589,"Ritz productions include To Kill A Mockingbird and Big, among others.","Rich productions include ""To Kill a Monkey Bird"" and ""Big"" among others.",0.5454545454545454,5.347581148147583
+590,His uncle is actor Rajiv Goswami.,(speaking foreign language),1.0,5.435209035873413
+591,The other candidates barely made a showing.,The other candidates barely made a showing.,0.0,5.162526607513428
+592,Let's do this in chronological order.,Let's do this in chronological order.,0.0,5.316567420959473
+593,What good will that do?,What good will that do?,0.0,5.043398380279541
+594,But not for long.,But not so long.,0.25,5.144144058227539
+595,So why would they want to drop the gold standard if not for the reasons they claim?,"So, why would they want to drop the gold standard if not for the reasons they claim?",0.058823529411764705,5.5057573318481445
+596,"He constantly overeats and watches classic movies, and his hero is Ward Cleaver.","He constantly overeats and watches classic movies, and his hero is Ward Cleaver.",0.0,5.546879529953003
+597,Daniel Matheny and Nicholas Umar were the team captains.,Daniel Matheny and Nicholas Umar were the team captains.,0.0,5.267277717590332
+598,It must have fallen while I was sitting over there.,It was a problem while I was sitting over there.,0.3,5.259251832962036
+599,Can it be changed?,Can it be changed?,0.0,5.138469219207764
+600,"Sherman's mother-in-law, Margaret Odding, married secondly John Porter, another signer of the Portsmouth Compact.","Sherman's mother-in-law Margaret Otting married, secondly, John Porter, another signer of the Portsmouth Compact.",0.2857142857142857,5.87973952293396
+601,Do you know what he was last working on?,Do you know what he was last working on?,0.0,5.261542558670044
+602,The path will be known as the Northern Strand Community Trail.,The path will be known as the Northern Strand Community Trail.,0.0,5.381637096405029
+603,He's been crying for five minutes.,He's been crying for five minutes.,0.0,5.124840259552002
+604,They summed up the game as one that people would find enjoyment in playing.,They summed up the game as one that people would find enjoyment in playing.,0.0,5.440891742706299
+605,A friend to everybody is a friend to nobody.,A friend to everybody is a friend to nobody.,0.0,5.242865562438965
+606,Saint-Gobain's financial performance was adversely affected by the economic and petrol crisis.,Saint-Gobain's financial performance was adversely affected by the economic and petrol crisis.,0.0,5.685466051101685
+607,"Stewart was a two-time team captain, and all-Big Seven selection in basketball.",Stewart was a two-time team captain and followed their seven selections in basketball.,0.4166666666666667,5.467938661575317
+608,You haven't got your wings yet.,You haven't got your wings yet.,0.0,5.183995485305786
+609,Luke served as Matt's best man at his wedding.,Luke served as Matt's best man at his wedding.,0.0,5.250197410583496
+610,He later attended the Graduate Institute of International Studies in Geneva.,He later attended the Graduate Institute of International Studies in Geneva.,0.0,5.309181213378906
+611,"When he got the call, Ali ran out of the store, down the street, and into the car.","When he got the call, Ali ran out of the store, down the street and into the car.",0.05555555555555555,5.663198947906494
+612,"Helen is desired by Eliot, but all she is interested in is money.","Helen is desired by Elliot, but all she is interested in is money.",0.07692307692307693,5.4408769607543945
+613,Like a fish out of water.,Like a fish out of water.,0.0,5.199607610702515
+614,The Little Mountain Reunion is one of South Carolina's oldest folk festivals.,The Little Mountain Reunion is one of South Carolina's oldest folk festivals.,0.0,5.3934009075164795
+615,That is something I won’t encourage.,This is something I want to encourage.,0.5,5.158813953399658
+616,You can't have your cake and eat it too.,You can't have your cake and eat it too.,0.0,5.231467962265015
+617,It is found near streams.,It is found near streams.,0.0,5.114855766296387
+618,And the sand and gravel had been flung violently in every direction.,Anthosand and graphite had been flung faringly in every direction.,0.4166666666666667,5.407995223999023
+619,"A realisation hits and he exclaims, I see!","..realization hits and he exclaims ""I see""",0.625,5.237773656845093
+620,Select between line X and line Y.,Select between line X and line Y.,0.0,5.210570573806763
+621,Investors are also advised to turn to unbiased sources when researching investments.,Investors are also advised to turn to unbiased sources when researching investments.,0.0,5.28726863861084
+622,"""And I'm certain you'll find it,"" the alchemist said.","""And I'm certain you'll find it,"" the arkham is saying.",0.3333333333333333,5.509531497955322
+623,The administrative center of the district is Zell am See.,The administrative centre of the district is Selamze.,0.4,5.354832410812378
+624,The two platforms are now linked by a footbridge.,The two platforms are now linked by a footbridge.,0.0,5.267951726913452
+625,His main teacher at the academy was the famous Austrian composer Hanns Jelinek.,His main teacher at the Academy was the famous Austrian composer Hans John Eck.,0.3076923076923077,5.443023204803467
+626,Experts of geology agree: Yesterday's tsunami was just a herald of the imminent apocalypse.,Experts of geology agree. Yesterday's tsunami was just a herd of the imminent apocalypse.,0.14285714285714285,5.566996097564697
+627,They set out in enormous bands on their southward journey.,They sit out in enormous bands on their southward journey.,0.1,5.373064041137695
+628,"Henry calls in Mountjoy, a representative of the Dauphin.","Henry calls in Mount Joy, a representative of the Dauphin.",0.2222222222222222,5.445043325424194
+629,Attached to the white room is a Command Module trainer.,Attached to the white room is a command module trainer.,0.2,5.406742334365845
+630,A man stands with on foot elevated onto a step in front of a small fire.,A man stands with on foot elevated on the step in front of a small fire.,0.125,5.4634270668029785
+631,"The pin number is three, seven, two, six.","The pin number is three, seven, two, six.",0.0,5.189739465713501
+632,"To do that successfully, I must have no fear of failure.","To do that, successfully, I must have no fear of failure.",0.09090909090909091,5.376148462295532
+633,"Furthermore, the equations of motion impose that the Romans mass is constant.","Furthermore, the equations of motion impose that the Roman's mass is constant.",0.08333333333333333,5.523698568344116
+634,He immediately left the bar and headed home.,He immediately left the bar and headed home.,0.0,5.293029308319092
+635,The thought was so dreadful to him that he forgot about the heat and went forward.,The thought was so dreadful to him that he forgot about the heat and went forward.,0.0,5.50358510017395
+636,At least six De Winton locomotives have been preserved.,At least 6 Tewinton locomotives have been preserved.,0.3333333333333333,5.290052175521851
+637,"It builds up, a lot of people do things together that they know.",It builds up a lot of people do things together that they know.,0.07692307692307693,5.450719118118286
+638,"System B, however, does not depend explicitly on ""t"" so it is time-invariant.",system in our house that we can expose it here. So it's highly layered.,1.0769230769230769,5.853945255279541
+639,Thirty concentration camps in total were established across the puppet state.,The key concentration camps in Portland were established across the puppet stick.,0.36363636363636365,5.4191553592681885
+640,It was also announced that this new team would be affiliated with Roush Racing.,It was also announced that this new team would be affiliated with Roche Racing.,0.07142857142857142,5.444086074829102
+641,He played for the Delhi Daredevils in the previous seasons.,He played for the Delhi Derwelsch in the previous seasons.,0.1,5.375384569168091
+642,I don't want anything for myself.,I don't want anything for myself.,0.0,5.151038885116577
+643,Formal clinical trials in depressed patients have not been reported.,Formal clinical trials in depressed patients have not been reported.,0.0,5.3502068519592285
+644,"Those women are all card sharks, don't be fooled.",Those women are all card sharks. Don't be fooled.,0.2222222222222222,5.310232877731323
+645,Japan is a society awash in information.,Japan is a society and watching information.,0.2857142857142857,5.183908700942993
+646,The second half of the cracker is then added on top.,The second half of the cracker is then added on top.,0.0,5.5050048828125
+647,"Beachley narrates the Seven Network factual series ""Beach Cops"".",Beach List generates the 7 Network Factual Series Beach Cups.,0.8888888888888888,5.272159814834595
+648,"William Howard was born at Hinesburg, Vermont.","William Howard was born at Hinsburg, Vermont.",0.14285714285714285,5.296268701553345
+649,Do you understand me?,Do you understand me?,0.0,5.079292297363281
+650,Most patients exhibit abnormal sleep patterns characterized by insomnia and daytime drowsiness.,Most patients exhibit abnormal sleep patterns characterized by insomnia and daytime drowsiness.,0.0,5.353118658065796
+651,I am afraid that I would need to charge you for that.,I'm afraid that I would need to charge you for that.,0.16666666666666666,5.376026391983032
+652,"They looked for the fallen mass, but found nothing.","They looked for the following mess, but found nothing.",0.2222222222222222,5.322810649871826
+653,It was so small and undeveloped.,It was so strong and undeveloped.,0.16666666666666666,5.187019109725952
+654,Moers has two children.,Morse has two children.,0.25,5.061851501464844
+655,He was the original sponsor of legislation creating pension reform in New Jersey.,He was the original sponsor of legislation creating pension reform in New Jersey.,0.0,5.445805311203003
+656,We couldn't believe a ball was going that far.,We could not believe a ball was going that far.,0.2222222222222222,5.211938858032227
+657,Ibrahim Caramel brought his yellow eye rakishly into play.,Ibrahim Karmel Braque is yellow eye actually into play.,0.4444444444444444,5.388308525085449
+658,It seems old and wise.,It seems old and wise.,0.0,5.055176019668579
+659,Included in Anacostia Park is Kenilworth Park and Aquatic Gardens and Kenilworth Marsh.,included in Anacostia park is Kennethworth park and aquatic garden and Kennethworth Mars,0.6153846153846154,5.568190574645996
+660,"""Dinner at Eight"" in particular has received two other prominent raves.",Dinner at eight in particular has received two other prominent raves.,0.18181818181818182,5.385288238525391
+661,A part of me is also trying to come to terms with the fact that I won't be able to travel as much anymore.,A part of me is also trying to come to terms with the fact that I won't be able to travel as much anymore.,0.0,5.814603567123413
+662,"A large advocate of outdoor conservation, he works largely with Ducks Unlimited.",A larger bucket of outdoor conservation works largely with ducts unlimited.,0.5,5.389067649841309
+663,"He was survived by his third wife, Etta, a daughter and two stepsons.","He was survived by his third wife Etta, a daughter and two stepsons.",0.07692307692307693,5.592124700546265
+664,Today the entire area is covered with housing.,Today the entire area is covered with housing.,0.0,5.237790107727051
+665,Can you imagine something more beautiful than a plastic bag swooping and floating in a breeze?,Can you imagine something more beautiful than a plastic bag swooping and floating in a breeze?,0.0,5.5513763427734375
+666,Seoul has two main airports: the Incheon International Airport as well as Gimpo International Airport.,"Seoul has two main airports, the Indian International Airport as well as Kimpo International Airport.",0.2,5.5814049243927
+667,It has inherent support for run-time cast validation.,It has inherent support for runtime cast validation.,0.125,5.234128952026367
+668,The engineers spent the Phoney War period working on defensive positions.,The engineers spent the phony war periods working on defensive positions.,0.2727272727272727,5.2942140102386475
+669,I thought you were going to teach me some of the things you know.,I thought you were going to teach me some of the things you know.,0.0,5.432785511016846
+670,The four winners will go to the next round.,The four winners will go to the next round.,0.0,5.290491104125977
+671,The Arrowhead Line primarily served to haul water tanks from the Arrowhead Springs Company.,The arrowhead line primarily served to all water tank from the arrowhead string company.,0.5,5.558049440383911
+672,Maybe she didn't even remember him.,Maybe she didn't even remember him.,0.0,5.187135219573975
+673,The museum covers all aspects of the Warsaw Uprising.,The museum covers all aspects of the Warsaw Uprising.,0.0,5.199830532073975
+674,The town is believed to be the birthplace of asparagus in the New World.,The town is believed to be the third place of asparagus in the newborn.,0.2857142857142857,5.478337526321411
+675,"They are very impressive, I will admit.","They are very impressive, I will admit.",0.0,5.151116371154785
+676,"The radio show published a monthly newsletter for subscribers called ""After Dark"".",The radio show published a monthly newsletter for subscribers called After Dark.,0.16666666666666666,5.368259429931641
+677,"A group of people, one of them with a guitar, were sitting by the campfire and singing songs.","A group of people, one of them with the guitar were sitting by the campfire and singing songs.",0.1111111111111111,5.6137707233428955
+678,She looks as though she's going to come to.,She looks at her. She is going to come too.,0.5555555555555556,5.351079702377319
+679,no,No.,1.0,4.944756031036377
+680,The Beatles were a famous English rock band.,The Beatros were famous English rock band.,0.25,5.184335470199585
+681,"Tomorrow, sell your camel and buy a horse.","Tomorrow, sell your camera and buy a horse.",0.125,5.296284914016724
+682,"""Let's stop this,"" another commander said.",Let's stop this another command to say.,0.8333333333333334,5.252916574478149
+683,"His poetry has features of a report, often with a distinct narrative story-line.","His poetry has features of a report, often with a distinct narrative storyline.",0.07692307692307693,5.411155939102173
+684,A fur muff is stylish once more.,A fur muff is stylish once more.,0.0,5.196146249771118
+685,But he prevailed.,But he prevailed. I did.,0.6666666666666666,5.083884954452515
+686,They are the first to start the next round.,They are the first to start the next round.,0.0,5.228877544403076
+687,He earned extra money by renting a room in his house to a lodger,He earned extra money by renting a room in his house to a lodger.,0.07142857142857142,5.449374198913574
+688,"The Poles, meaning the Polish people, obtained independence.","The Poles, meaning the Polish people, obtain independence.",0.125,5.242365121841431
+689,"""Medieval Madness"" was also included in the arcade game UltraPin.",Medieval madness was also included in the arcade game Ultra Pin.,0.4,5.221167802810669
+690,"As soon as he saw me among the crowd, he called to me to come down.","As soon as he saw me among the crowd, he called me to come down.",0.0625,5.572359323501587
+691,"Christine valued her freedom, and would never deny anyone that privilege.",Christine valued her freedom and would never deny anyone that privilege.,0.09090909090909091,5.351885557174683
+692,"In this period, three family members left the group.",In this period three family members left the group.,0.1111111111111111,5.210989952087402
+693,"To calibrate the motion capture system, please do a T-pose.","To calibrate the motion capture system, please do a T-pose.",0.0,5.127441883087158
+694,"What is the height, length and width of the container?","What is the height, length and width of the container?",0.0,5.047802448272705
+695,"A short, distinct, and pointed style the opposite of legato.",Assured distinct and pointed style the opposite of legato.,0.3,5.023630380630493
+696,There were lights in the upper windows of the houses when the people went to bed.,There were lights in the upper windows of the houses when the people went to bed.,0.0,5.18869161605835
+697,What's this I hear!,What's this IQ?,0.5,4.868320465087891
+698,"Anna Austen asked about the acceptation of the word ""alliteration"".",Anna Orson asked about the acceptation of the word alliteration.,0.2,5.241687536239624
+699,Do you know any Silicon Valley billionaires?,Do you know any Silicon Valley billion noise?,0.2857142857142857,5.023614883422852
+700,"""Tembaga"" entered Dutch usage concurrent with their colonisation of Indonesia.",Tabaga - Intro Dutch usage concurrent with decolonization of Indonesia.,0.5,5.091379642486572
+701,It won critical acclaim at its Sundance screening.,It won't critical acclaim at its end.,0.375,5.012296438217163
+702,"This prevented the sale, distribution, or display of the tape.",This is the first of the three experiments displayed on the screen.,0.9,5.650527238845825
+703,He noticed the unequal cooling of its surface.,He noticed the unequal cooling of its surface.,0.0,4.964309215545654
+704,"Out of the four, Venkman is the default Ghostbuster that is selected.","Out of the four, Venkman is the default ghostbuster that is selected.",0.08333333333333333,5.172499895095825
+705,She could not sit still.,She could not sit still.,0.0,4.872461557388306
+706,It seemed so safe and tranquil.,It just seems this all safe and tranquil.,0.6666666666666666,4.962220907211304
+707,What was I to do?,What was I to do?,0.0,4.874585866928101
+708,The British continued to use the site as a hospital.,The British continue to use the site as a hospital.,0.1,5.011180400848389
+709,"Van Gundy was born in Hemet, California.","Bongan bee was born in Hormuz, California.",0.42857142857142855,5.4430272579193115
+710,The India Office was a predecessor department of the Foreign Office.,The India office was a predecessor by the Department of the Foreign Office.,0.36363636363636365,5.0644307136535645
+711,I read only what the birds wanted to tell me.,I read only what the birds wanted to tell me.,0.0,5.001479148864746
+712,"Please, be humble.",Please be humble.,0.3333333333333333,4.789286375045776
+713,Might others within your organisation have some inkling as to the their desires?,My daughters within your organization have some in-kings as to their desire.,0.46153846153846156,5.091244697570801
+714,"The builder placed the brick onto the plank of wood, so it would bend into shape.",The builder placed the brick onto the plank of wood so it would bend into shape.,0.0625,5.15549373626709
+715,Glas Bheinn lies between Ullapool and Durness.,Glass binning lies between Ollapool and Durness,0.5714285714285714,5.138777494430542
+716,The volume wouldn't increase much further.,They volume wooden and grease much further.,0.6666666666666666,4.951285123825073
+717,Cuba is in the fourth stage of demographic transition.,Cuba is in the fourth stage of demographic transition.,0.0,4.970670700073242
+718,I told you that your dream was a difficult one.,I told you that your dream was a difficult one.,0.0,4.98081636428833
+719,"""Should I understand the Emerald Tablet?"" the boy asked.",Should I understand the emerald tablet? The boy asked.,0.4444444444444444,4.989441156387329
+720,The terminology is made confusing by the etymology of these words.,The terminology is made confusing by the etymology of these words.,0.0,5.041180610656738
+721,There is also the City Island Seaside Trolley run by the Bronx Tourism Council.,There is also the City Island Seaside Trolley run by the Bronx Tourism Council.,0.0,5.167240619659424
+722,Mia turned seven today.,Mia turned seven today.,0.0,4.818247556686401
+723,"Grime, rust and residual particles polluted the air.","Grime, rust and residual particles polluted the air.",0.0,4.992427825927734
+724,"I could not judge for her actions, but I believe that she is right.","I could not judge for her actions, but I believe that she is right.",0.0,5.094003200531006
+725,These went from Mauchline to the Isle of Wight.,These men from Magdalene to the Israeli government.,0.5555555555555556,4.997702360153198
+726,What makes you think so?,What makes you think so?,0.0,4.82392430305481
+727,The crater is very old and is crisscrossed by chains of secondary impact craters.,The crater is very old and is crisscrossed by chains of secondary impact craters.,0.0,5.223405122756958
+728,The character of the Well-Manicured Man has been positively received by critics.,The character of well-manicured man has been partially received by critic.,0.4166666666666667,5.1019508838653564
+729,"Its motto, on the nameplate below the title, is One of America's Great Newspapers.",Its motto on the nameplate below the title is one of America's great newspapers.,0.35714285714285715,5.110605478286743
+730,Most of his subjects were found in Devon and Cornwall.,Most of his subjects were found in Devon and Cornwall.,0.0,4.9625842571258545
+731,Loved it.,loved it,1.0,4.726467609405518
+732,Byron is named after an employee of the railroad.,Byron is named after an employee of the railroad.,0.0,4.941737413406372
+733,He had a week-long residency at the Olympia Theatre.,We had a week long with residency at the Olympic Theatre.,0.5555555555555556,5.048801898956299
+734,It belongs to the Ponda taluk.,,1.0,4.90455174446106
+735,"More recently, advances in sensing and computing technology have given rise to 'predictive maintenance'.","More recently, advances in sensing and computing technology have given rise to predictive maintenance.",0.14285714285714285,5.097241640090942
+736,Michael was involved in all three games.,Michael was involved in all three games.,0.0,4.875487804412842
+737,"He's an idol, but he's not a saint.","He is an idol, but he is not a saint.",0.5,4.977884531021118
+738,What's the matter with you?,What's the matter with you?,0.0,4.864478349685669
+739,He heard a muffled grating sound and saw the black mark jerk forward an inch or so.,Give her elemental greeting sound and shout a blank mark jump forward and into her suit.,0.7647058823529411,5.1728081703186035
+740,"For at that time, it had not occurred to him that it might be hollow.","For a test time, it had not occurred to him that it might be hollow.",0.13333333333333333,5.114208221435547
+741,Its county seat and largest city is Tampa.,Let's country sit and let the city stomp back.,0.875,4.994534969329834
+742,"He who fights and runs away, lives to fight another day.",He who fights and runs away lives to fight another day.,0.09090909090909091,5.018755674362183
+743,"Don't worry, I took a cab to get home safely.","Don't worry, I told you to get home safely.",0.3,4.988337278366089
+744,That is quite another matter.,That is quite another matter.,0.0,4.83193039894104
+745,What made you do it?,What made you do it?,0.0,4.829519271850586
+746,The novel contains autobiographical elements.,The novel contains autobiographical elements.,0.0,4.86987042427063
+747,Jarvis founded the Steel Company of Canada.,"The wish found us in Kambali, up Canada.",1.0,4.94088077545166
+748,Harry groaned aloud; we have lost him.,Have you grown allowed we have lost,0.7142857142857143,4.874817132949829
+749,"Jet is not a mineral, but rather a mineraloid.","Jet is not a mineral, but rather a mineraloid.",0.0,5.013970851898193
+750,There was no formal leader.,There was no formal leader.,0.0,4.822321653366089
+751,Coronel has other footballers in his family.,Cornell has other footballers in East Community,0.42857142857142855,4.917053699493408
+752,She was also a philanthropist.,She is also a philanthropist.,0.2,4.857278347015381
+753,The badge on the front grille was an option at first.,The banjo on the front grill was an option at first.,0.18181818181818182,4.996064901351929
+754,He later became chief pilot and director of flight operations at Matson Airlines.,He later became chief pilot and director of flight operations at Madsen Airlines.,0.07692307692307693,5.07715368270874
+755,Onoda is of Japanese descent.,Oneida is of Japanese descent.,0.2,4.852283716201782
+756,"Jef Raskin jokingly stated: Yes, we named our software after a bug.","Jeff Reskin jokingly stated yes, we named our software after a bug.",0.3333333333333333,5.136550426483154
+757,But where are you going?,But where are you going?,0.0,4.826188087463379
+758,A basketball was too heavy while the basketball bladder was too light.,A basketball was too heavy while the basketball bladder was too light.,0.0,5.045377492904663
+759,"""Simon Sez"" had an extremely negative reception by critics.",Simon says had an extremely negative relationship shown by critics.,0.4444444444444444,4.947893381118774
+760,What did your family have to say about it?,What did your family have to say about it?,0.0,4.935185194015503
+761,The estate terminates whenever the prescribed qualification ceases.,The estate terminates whenever the prescribed qualification ceases.,0.0,4.948275327682495
+762,A principal concern about the plant is whether it can be sufficiently earthquake-proof.,A principal concern about the plant is that it can be sufficient earthquake proof.,0.3076923076923077,5.117286443710327
+763,"In a weeks time, we're going to America.","In a week's time, we're going to America.",0.125,5.120471239089966
+764,Can I be used to request invocation of a subsystem on the remote system?,Can I be used to request invocation of a subsystem on the remote system?,0.0,5.070966958999634
+765,The flowers are produced in spikes.,The flowers are produced in spikes.,0.0,4.858690977096558
+766,He was replaced on bass guitar by Justin Klug.,He was replaced on basket of my chest and skull.,0.6666666666666666,4.954348564147949
+767,I'd add a separate subsection which deals with this aspect.,I'd add a separate subsection which deals with this aspect.,0.0,4.998132228851318
+768,Operation of the trunk line continued on wooden trestles.,Operation of the trunk line continued on the wooden trusses.,0.2222222222222222,5.1227171421051025
+769,"Reading or not, it's to you, really.","Reading or not, it's to you, really.",0.0,4.946354866027832
+770,"Conor Oberst appears alone on the track, on vocals and acoustic guitar.",Connor O'Burst appears alone on the track on vocals and acoustic guitar.,0.25,5.130580902099609
+771,You can't make people do procedures that they don't want.,You can't make people do procedures that they don't want.,0.0,5.023224115371704
+772,Magnesium fluoride is transparent over an extremely wide range of wavelengths.,Magnesium fluoride is transparent over an extremely wide range of wavelengths.,0.0,5.026825904846191
+773,"Welcome to the party, Sandra!","Welcome to the party, Sandra!",0.0,4.84559965133667
+774,Four giant packing sheds stored fresh packed potatoes and delivered them onto railroad cars.,Four giant packing sheds to refresh packet potatoes and deliver them onto railroad cars.,0.2857142857142857,5.082102298736572
+775,The other fourteen campuses are two-year campuses referred to collectively as the University College.,The other 14 campuses are two-year campuses referred to collectively as the University College.,0.07142857142857142,5.156712532043457
+776,"It's too bad that he's quickly going to forget my name, he thought.",It's too bad that he quickly going to forget my name.,0.3076923076923077,5.083319902420044
+777,What does she look like?,What does she look like?,0.0,4.838285684585571
+778,One picture in the gallery shows how diligent slaves erect the statue of admiral Thompson.,One picture in the gallery shows how religion slaves erected study of Admiral Thompson.,0.3333333333333333,5.227874994277954
+779,The building is scheduled to open in twenty-twenty-three.,The building is scheduled to open in 2023.,0.125,4.948265314102173
+780,What is his name?,What is his name?,0.0,4.820606231689453
+781,Imperial diet,Imperial Diet,0.5,4.7309486865997314
+782,The resulting company is Strattec Security Corporation.,The resulting company is Star Trek Security Corporation.,0.2857142857142857,4.895049333572388
+783,"And at that I told him, and he took my place.",And at that I told him and he took my place,0.18181818181818182,5.033923864364624
+784,I thought I'd give the kids a treat.,I thought I'd give the kids a treat.,0.0,4.953024625778198
+785,Hold your nose to keep the smell from disabling your motor functions.,Hold your nose to keep the smell from disabling your motor functions.,0.0,5.1503167152404785
+786,That sounds like their problem.,That sounds like their problem.,0.0,4.85703444480896
+787,The affair received national media attention.,The affair received national media attention.,0.0,4.87499475479126
+788,Flax makes a fine brand of paper.,Flex makes a fine brand of paper.,0.14285714285714285,4.89414119720459
+789,"Those who tend toward law are sages, engineers, researchers, scholars, investigators, or inventors.","Those who tend towards the law are sages, engineers, researchers, scholars, investigators, or inventors.",0.15384615384615385,5.294122695922852
+790,A streak of color ran down the left edge.,A streak of color ran down the left edge.,0.0,4.966984510421753
+791,How can you say that?,How can you say that?,0.0,4.847437381744385
+792,To enable flexibility of use the Victorian pews were replaced by chairs.,To enable flexibility of use the Victorian piece were replaced by chess,0.16666666666666666,5.041117191314697
+793,He is also capable of firing lightning bolts with immense destructive power.,He is also capable of firing lightning bolts with immense disruptive power.,0.08333333333333333,5.053863286972046
+794,He claimed two wickets in England's only innings as Border were beaten comprehensively.,We claim to work it's in England only innings as for a weapon,0.7692307692307693,5.09097146987915
+795,In such cases the festival assumes less imposing dimensions.,"In such cases, the festival assumes less imposing dimensions.",0.1111111111111111,4.9868340492248535
+796,The election saw the election of Mike Moncrief.,The election saw the election of Mike Moncrief.,0.0,4.972668886184692
+797,The ball struck the foul pole well above the Green Monster.,The ball struck the fountboard well above the green monster.,0.36363636363636365,5.03211784362793
+798,They talk of plans for the future.,They talk of plans for the future.,0.0,4.896870851516724
+799,It can only be found in Tai Hang Tung Estate.,It can only be found in Daihang-Tung state.,0.4,5.062902927398682
+800,It is a charity school whose fees are calculated on a means test.,It is a charity school whose fees are calculated on a means test.,0.0,5.06506609916687
+801,"Some went away while I was there, and other people came.",Some went away while I was there and other people came.,0.09090909090909091,5.005578517913818
+802,seven,Tabern!,1.0,4.781419515609741
+803,Tobias tried to inject contempt into his tone.,Tobias tried to inject contempt into his tomb.,0.125,4.924710035324097
+804,I have to work this Saturday.,I have to work this Saturday.,0.0,4.872411727905273
+805,"The nose horn of ""Pentaceratops"" is small and pointing upwards and backwards.",The nose horn of Pentaceratops is small and pointing upwards and backwards.,0.08333333333333333,5.2299253940582275
+806,"Subsequently he was mayor of Guayaquil, and chief of the custom-house service.","Subsequently, he was Mayor of Gaya Quill and Chief of the Custom House Service.",0.6666666666666666,5.198928594589233
+807,The great rulers found the squeaky grate was grating on their nerves.,My dead leader and his family squeaky-glade was glaiting on their nose.,0.75,5.640301704406738
+808,"When the blinding dust had settled a bit, the boy trembled at what he saw.","When the building tossed, he settled a bit. The boy trembled at what he saw.",0.3333333333333333,5.558637380599976
+809,Fuji Dream Airlines has its headquarters in Makinohara.,Wooji drink A9's as it said quarters in Makino Hara,1.125,5.464337348937988
+810,Both are put together by students in the college's journalism program.,Both are put in together by students in the colleges journalism program.,0.18181818181818182,5.410747528076172
+811,The restroom in my house does not have a urinal.,The restroom in my house does not happen urinal.,0.2,5.240497589111328
+812,Trench was born in Belize City in British Honduras.,"Trade was born in values, city in British Honduras.",0.3333333333333333,5.214800834655762
+813,He had an enduring collaboration with drummer John Pochee.,He had an enduring collaboration with drummer John Pochy.,0.1111111111111111,5.309617042541504
+814,"Cheap, tawdry bags are being sold everywhere in this market.","Cheap, toe-dried bags are being sold everywhere in this market.",0.1,5.310071706771851
+815,"Also, rising gasses cause the bubbling action.","Also, rising gases cause the bubbling action.",0.14285714285714285,5.1955530643463135
+816,"According to a medieval Welsh triad, Afallach was the father of the goddess Modron.",According to the media I assumed that I was the father of the goodness order.,0.5714285714285714,5.51223349571228
+817,How was the food there?,How was the food there?,0.0,5.10583758354187
+818,The early phase of life moves fast.,The early phase of life moves fast.,0.0,5.167311429977417
+819,He became a member of the Pi Kappa Alpha Fraternity while an undergraduate.,He became a member of the Pi Kappa Alpha fraternity while an undergraduate.,0.07692307692307693,5.4464194774627686
+820,The duopoly continued for the next four decades.,The do of poly continue for the next 4 decades.,0.625,5.2903664112091064
+821,At one time railway lines diverged from Rugby station in seven different directions.,"At one time, railway lines diverged from Rakhbi station in seven different directions.",0.15384615384615385,5.5310869216918945
+822,He is the Director of the Wesleyan Studies Summer Seminar.,He is the Director of the Wesleyan Studies Summer Seminar.,0.0,5.258031845092773
+823,"Tyger Williams wrote the screenplay, and shared story credit with the brothers.",Roger Williams wrote the screenplay and shared story credit with the brother.,0.25,5.350844621658325
+824,This festival was to be a charity fundraiser for the area.,This festival was to be a charity fundraiser for the year.,0.09090909090909091,5.361729145050049
+825,These extra cards were inserted randomly into packs.,These extra guards were inserted randomly Yeah,0.375,5.286577224731445
+826,"Permit me to introduce to you her Majesty, the Queen.",permit me to introduce you to her majestic queen,0.6,5.281198501586914
+827,I am sure there is not on his.,I'm sure there is not one this,0.5,5.157991409301758
+828,Those who don't learn from history are doomed to repeat it.,"Also don't learn from the history, I don't repeat it.",0.5454545454545454,5.331871747970581
+829,I couldn’t stop staring at it.,I called and stopped staring at it.,0.5,5.212661981582642
+830,"For simplicity, 'gear inches' is normally rounded to the nearest whole number.","For simplicity, gear inches is normally rounded to the nearest whole number.",0.16666666666666666,5.415669918060303
+831,The fruit of a fig tree is apple shaped.,The fruit of a fig tree is apple-shaped.,0.2222222222222222,5.33535361289978
+832,Why didn't you say something?,Why didn't you say something?,0.0,5.150665283203125
+833,The type and only species is Sciroseps pawhuskai.,The type and only species is Ciroseps pahushke.,0.25,5.479348659515381
+834,Have you seen Omar?,Have you seen Omar?,0.0,5.071407318115234
+835,"The ""Philadelphia Inquirer"" named him City Player of the Year.",The Philadelphia Inquiring Team City Player of the Year.,0.4,5.316566705703735
+836,Panda bears are nothing like most bears.,Panda beers are nothing like most beers.,0.2857142857142857,5.154735565185547
+837,Bots may be subject to special rules.,Gods may be subject to special wounds.,0.2857142857142857,5.164905786514282
+838,"My teacher always throws chalk at his pupils, that's why I'm wearing a helmet.",My teacher always throws chalk at his pupils. That's why I'm wearing a helmet.,0.14285714285714285,5.418248891830444
+839,The Act did not prohibit paying a representative to appear in court.,The act did not prohibit paying a representative to appear in the court.,0.16666666666666666,5.3112640380859375
+840,"It was a ""roving reporter"" walk.","It was an aerobic report, they were welcome.",1.0,5.230583429336548
+841,He was convicted and banished to Cyprus for seven years for punishment.,He was convicted and banished his Cyprus for seven years for punishment.,0.08333333333333333,5.272954225540161
+842,"Barsi's first role was in ""Fatal Vision"", playing the three-year-old Kimberley MacDonald.","Parsons' first role was in ""Fatal Vision"", playing the three-year-old Wolfgang Wing Macdonald.",0.3333333333333333,5.77517557144165
+843,Can I get you a drink?,Can I get you a drink?,0.0,5.157424688339233
+844,"The couple have two children, a daughter Sophia Rosalinda and a son, Mateo Bravery.","The couple have two children, a daughter, Sophia Rosalinda, and a son, Matteo Bravery.",0.21428571428571427,5.599448919296265
+845,The fourth component of homogeneous coordinates is usually set to one.,The fourth component of mGenius coordinates is usually set to 1.,0.18181818181818182,5.462631464004517
+846,A kind of brittle volcanic glass is found on the mountain.,A kind of brittle volcanic glass is found on the mountain.,0.0,5.393102645874023
+847,The system is based on electromagnetic induction.,The system is based on electromagnetic induction.,0.0,5.153224945068359
+848,"Turpin succeeded Indira Samarasekera, who saw the university through a period of strong growth.","Turpin succeeded in Deira-Samara-Sikara, who saw the university through a period of strong growth.",0.14285714285714285,5.729767084121704
+849,"Here I am, between my flock and my treasure, the boy thought.","Here I am between my flock and my treasure, the boy toss.",0.16666666666666666,5.342479705810547
+850,"After the prince had been rescued, he showed evidence of Stockholm syndrome.","After the prints had been rescued, he showed evidence of Stockholm Syndrome.",0.16666666666666666,5.380223989486694
+851,This failure has led to sixteen power plants having zero days of coal stock.,This failure has led to 16 power plants having zero days of cold stops.,0.21428571428571427,5.41203498840332
+852,Brent now serves as a police officer with the Ontario Provincial Police.,Brent now serves as a police officer with the Ontario Provincial Police.,0.0,5.3298139572143555
+853,I've done this before with VirtualBox with good results.,"Okay, I've done this before with virtual box with good results.",0.3333333333333333,5.393291711807251
+854,The application was approved in February.,The application was approved in February.,0.0,5.1227946281433105
+855,"Henry Tarlton Stiles, where he had a sound training in Latin.",Henry Tarleton tells where he had sound running in Latin.,0.36363636363636365,5.257422924041748
+856,It was discontinued due to scheduling conflicts involved in Lewis's return to terrestrial radio.,It was discontinued due to scheduling conflicts involved in Lewis's return to terrestrial radio.,0.0,5.506914377212524
+857,What did you eat for dinner?,What did you eat for dinner?,0.0,5.112574815750122
+858,He is considered a master of chiaroscuro.,He is considered a master of chiaroscuro.,0.0,5.281388759613037
+859,Not everything that is faced can be changed; but nothing can be changed until it is faced.,"Not everything that is faced can be changed, but nothing can be changed until it is faced.",0.058823529411764705,5.570168495178223
+860,"It then returns to the church, ascends at the altar and disappears.","And then returns to the church, ascends at the altar and spears.",0.16666666666666666,5.419240951538086
+861,You cannot lose what you never had.,You're gonna lose what you never had.,0.2857142857142857,5.304696083068848
+862,My niece can help you with that.,My niece can help you with that.,0.0,5.154168605804443
+863,That's the kind of stuff they want.,That's the kind of stuff they want.,0.0,5.189650297164917
+864,Hope for the best and prepare for the worst.,Hope for the best and prepare for the most.,0.1111111111111111,5.183685541152954
+865,This November I had some pecan pie.,This November I had some pecan pie.,0.0,5.321902275085449
+866,"Initially, the weight loss was attained strictly by diet.","Initially, the weight loss was attained strictly by diet.",0.0,5.299219131469727
+867,All were owned by the Everett-Moore Syndicate.,All were owned by the Everett Moore Syndicate.,0.2857142857142857,5.22938871383667
+868,Will it rain tomorrow?,Will it rain tomorrow?,0.0,5.0869786739349365
+869,It was sold primarily in Australia and various Asian countries.,It was sold primarily in Australia and various Asian countries.,0.0,5.327483892440796
+870,The Beaver River briefly enters the east-central part of the township.,The beaver river briefly enters the east centre part of the township.,0.36363636363636365,5.380620956420898
+871,Verify the contents of the website.,Verify the contents of the website.,0.0,5.170589923858643
+872,The evil omen was diverted from the real men and directed against their substitute.,The evil ominous diverted from the real man and directed against their substitute.,0.21428571428571427,5.429333686828613
+873,Sinha was born in Allahabad.,Sinha was born in Allahaba.,0.2,5.159525394439697
+874,"This bridge is unofficially referred to as ""Blackwater Bridge"" by Coalition Forces operating there.",This bridge is unofficially referred to as Blackwater Bridge by collision forces operating there.,0.2857142857142857,5.585717439651489
+875,"I had to teach my nephew the facts of life, because his parents are prudes.",I had to teach my nephew the facts of life because his parents are prudes.,0.06666666666666667,5.4116716384887695
+876,"""This is the first phase of the job,"" he said.","This is the first phase of the job, he said.",0.2,5.3060314655303955
+877,A newly built naval base on the Wrangel Island will add to that.,A newly built naval base on the Rangel Ivan will add to that.,0.15384615384615385,5.465507507324219
+878,Allison found her phone.,have fun,1.0,5.086854696273804
+879,"Therefore, the majority of MasterCards in these countries still are charge cards.","Therefore, the majority of masa cards in these countries still are charged cards.",0.25,5.508201360702515
+880,The two large dogs are running through sand.,The two large dogs are running through sand.,0.0,5.15195631980896
+881,The actor's authentic facial expression was convincing the jury.,The actor's authenticity facial expression was convincing the jury.,0.1111111111111111,5.2633888721466064
+882,All songs written by Neal Morse except where noted.,All songs written by Neil Morse except were noted.,0.2222222222222222,5.28117561340332
+883,The city took its name from Wyoming Township.,The city took its name from the Waiming township.,0.375,5.293863296508789
+884,The toll is also said to have caused congestion and accidents in the area.,Tallies also said to have close suggestions and accidents of the area.,0.42857142857142855,5.406208276748657
+885,He also performed cataract operations and prepared medicines.,He also performed cataract operations and prepared medicines.,0.0,5.3043601512908936
+886,Kirsten shrugged her shoulders.,First and shrug their shoulders.,1.0,5.063801050186157
+887,Glossop also has a motel outside which is situated Captain Glossop's Anchor.,Glow soap also has a motor outside which is situated kept in glow soap sinker.,0.6666666666666666,5.405869245529175
+888,She crouched down to lace her shoes and spotted a four leaf clover.,She crouched down to lace her shoes and spotted the foiled clover.,0.23076923076923078,5.440577507019043
+889,"The city took its name after one of these colonists, Phanagoras.",The city took its name after one of these colonist fanagoras.,0.18181818181818182,5.528334379196167
+890,"""Artigliere"" has been placed in reserve.",Arctic clear has been displaced and reserved.,0.8333333333333334,5.2299816608428955
+891,Guess the result from the first scores.,Guess the result from the first course.,0.14285714285714285,5.190244674682617
+892,Can I pay in cash?,Can I pay in cash?,0.0,5.13577938079834
+893,"I was scared, but wasted no time in going out and crossing the bridge to the sand pits.",I'm not scared but they said no diving boat out and crossing the bridge to the sandpits.,0.5555555555555556,5.639174938201904
+894,"Due to its path, scientists theorized that Kohoutek was an Oort-cloud object.","Due to its path, scientists theorized that co-tech was an Oort cloud object.",0.25,5.5794172286987305
+895,Haynes was born at Nottingham.,[INAUDIBLE],1.0,5.470836162567139
+896,Use not today what tomorrow will need.,Use not today what tomorrow will need.,0.0,5.215147972106934
+897,Writing across the curriculum is a school-wide initiative.,Writing across the curriculum is a school-wide initiative.,0.0,5.270296096801758
+898,The leopard does not change his spots.,The little part does not change his pots.,0.42857142857142855,5.238004446029663
+899,Fuel is gravity fed to the carburetor.,Fool is gravity fed to the carburetor.,0.14285714285714285,5.279707670211792
+900,"She biked home, smiling all the way, knowing that she had won.",She biked home smiling all the way knowing that she had won.,0.16666666666666666,5.428278207778931
+901,But that was all.,But that was all.,0.0,5.049556493759155
+902,"His hands were abraded and exhausted, but he listened to his heart.","His hands were aborted and adjusted, but he listened to his heart.",0.16666666666666666,5.414998531341553
+903,The eight winners of the previous round progressed to the quarterfinals.,Eight winners of the previous round progressed to the quarter finals.,0.36363636363636365,5.255372047424316
+904,"However, as soon as he arrived at his house, he became happy and feasted.","However, as soon as he arrived at his house, he became happy and feasted.",0.0,5.5568976402282715
+905,"If she said “Jump”, he would ask “How high?”","If he said jump, he won't ask how high.",0.5555555555555556,5.337213754653931
+906,There is a way.,There is a way,0.25,5.011712312698364
+907,Mostar.,Most are.,2.0,5.133946895599365
+908,"It is a tourist destination, and fishing, camping and other activities are permitted.","It is Atari's destination and fishing, camping and other activities are permitted.",0.23076923076923078,5.477181911468506
+909,"Then employed throughout Spain, the Spanish Aero Club urged its adoption internationally.","Then, employed throughout Spain, the Spanish Aero Club urged its adaptation internationally.",0.16666666666666666,5.458258152008057
+910,"Please, call me James.",Please call me James.,0.25,5.093946933746338
+911,"They had three children: Jeb, Kate, and Kimberly.","They had three children, Jeff, Kate, and Kimberly.",0.25,5.282352924346924
+912,Ralph currently teaches Sequential Art at Savannah College of Art and Design.,Ralph currently teaches sequential art at Savannah College of Art and Design.,0.16666666666666666,5.3606462478637695
+913,The table was adorned with lavish decorations.,The table was adorned with lavish decorations.,0.0,5.177387237548828
+914,There is no time to lose.,There is no time to lose.,0.0,5.176672458648682
+915,"The kite dipped and swayed, but stayed aloft.",The car did not sway but stayed afloat.,0.625,5.32361912727356
+916,"Wrestling, boxing and karate are well-known examples for martial arts.","Wrestling, boxing, and karate are well-known examples of martial arts.",0.2,5.407213926315308
+917,His painting technique develops and matures throughout the years.,His painting technique develops and matures throughout the years.,0.0,5.285438060760498
+918,"Jesus loves me, he who died.","Jesus loves me, he who died.",0.0,5.168482065200806
+919,The boy looked around him at the date palms.,The boy loop around here has the date bombs.,0.4444444444444444,5.213574647903442
+920,"""Never to come on a green twig;"" not to get on in the world.","Never succumb on a green trick, not to get on the world.",0.35714285714285715,5.3901379108428955
+921,Their presence was necessary because of strong civil unrest in the area.,Their presence was necessary because of strong civil unrest in the area.,0.0,5.478052377700806
+922,What am I to do?,What am I to do?,0.0,5.127169847488403
+923,Development of Launchpad is itself managed in Launchpad.,Development of launch pad is itself managed in launch pad.,0.5,5.211011648178101
+924,The newspaper articles had prepared everyone for the reception of the idea.,The newspaper articles had prepared everyone for the reception of the idea.,0.0,5.3802056312561035
+925,The aftermath of the destruction of Florida shapes the lives of several characters.,The aftermath of the destruction of Florida shapes the lives of several characters.,0.0,5.309474945068359
+926,The Attock Campus has gained a commendable reputation in a short time.,The Adork campus has gained a commendable reputation in a short time.,0.16666666666666666,5.464489459991455
+927,Braddock Heights is part of the Middletown School District.,Bread or Kite is part of the Middle Town School District.,0.5555555555555556,5.307149887084961
+928,This City of Cambridge site will eventually hold of space.,The city of Cambridge site will eventually hold of space.,0.2,5.219630002975464
+929,"men that are not included in the line, the reserve, Militia Never mind, Farewell","Men that are not included in the line, the reserved, media never mind. Farewell.",0.42857142857142855,5.653904914855957
+930,Then the old quarries were used as landfills.,Then the alt where these were used as landfills.,0.375,5.333036422729492
+931,Users can also restore files that had been deleted from a flash memory drive.,Users can also restore files that have been deleted from a flash memory drive.,0.07142857142857142,5.3249781131744385
+932,To look too deep into one's glass.,To look too deep into one's glass.,0.0,5.24418044090271
+933,Plosive stops become nasal stops before nasal stops.,Pleasive stops become nasal stops before nasal stops.,0.125,5.287397623062134
+934,"After the season, he became a free agent.","After the season, he became a free agent.",0.0,5.284435272216797
+935,In winter the lake completely freezes and is used for winter sports.,In winter the lake completely freezes and it's used for winter sports.,0.08333333333333333,5.279759645462036
+936,Afterwards he finished law school.,"Afterwards, he finished law school.",0.2,5.174194812774658
+937,He was killed by Nicaea.,He was killed by Nikaya.,0.2,5.160294055938721
+938,The sun shines on both sides of the hedge.,The sun shines on both sides of the H.,0.1111111111111111,5.189108371734619
+939,It's hard to compare something necessary and mundane with something I'm excited about.,It's hard to compare something necessary and mundane. It's something I'm excited about.,0.15384615384615385,5.552716255187988
+940,There was also a prosperous manufacture of starch belonging to the Legrain family.,There was also a prosperous manufacture of starch blimey to the Lagrine family.,0.15384615384615385,5.398082494735718
+941,The following are examples of prefixes in Karuk.,The following are examples of prefixes in the group.,0.25,5.354287147521973
+942,But give the woman credit.,Let's give the women credit.,0.4,5.161435127258301
+943,Azerbaijan is a one party dominant state.,Azerbaijan is one party dominant state.,0.14285714285714285,5.145887136459351
+944,"In exchange for freeing her, Kaguya promises to grant Kagura her eternal freedom.",Thank you very much.,1.0,5.1048173904418945
+945,This process took about three years.,This process took three years.,0.16666666666666666,5.321644306182861
+946,Where did you find that apple?,Where did you find that a person?,0.3333333333333333,5.187590837478638
+947,Their tour in France was sold out.,That tour in France was so down.,0.42857142857142855,5.1879894733428955
+948,"Fine, well I need to make a call before we leave.","Fine, well I need to make a call before we leave.",0.0,5.276907205581665
+949,All four suits were settled.,All four suits were settled.,0.0,5.066055774688721
+950,The line ran west from Sanford to Tavares on Lake Eustis.,The line ran west from Sanford to Taveries on Lake Yousis.,0.18181818181818182,5.430953502655029
+951,At Kuchma's request high-level foreign mediators also took part in the talks.,"At Kuchimash, request high-level foreign mediators also do part in the talks.",0.16666666666666666,5.48020076751709
+952,"This pepperoni tastes off, she said.","This pepperoni test off, she said.",0.16666666666666666,5.237509489059448
+953,"Trample the spark, else the flames will spread.",Trample the spark else the flames will spread.,0.125,5.203106880187988
+954,Where are they now?,Where are they now?,0.0,5.085017204284668
+955,"If you are well off, remain so.",Your wealth remains old.,1.0,5.063756465911865
+956,Maddox has two children and two stepchildren.,Maddox has two children and two stepchildren.,0.0,5.1876540184021
+957,That damn mouse could sense my anger.,That damn mouse could sense my anger.,0.0,5.213413953781128
+958,There are obvious drawbacks in the theory.,There are obvious drawbacks in the theory.,0.0,5.169606924057007
+959,"You know, gifts are, by definition, free.","You know, gifts are better definition free.",0.42857142857142855,5.2170960903167725
+960,Martinez abandons her after knowing that she is pregnant with his child.,Martinez abandons her after knowing that she is pregnant with his child,0.08333333333333333,5.448616981506348
+961,I wish he would arrive!,I wish he would arrive,0.2,5.074645519256592
+962,Who is the blonde girl with the red skirt?,Who is the one girl with the red skirt?,0.1111111111111111,5.227360248565674
+963,That year Max married Teresa Bleus.,At year max married taste of balloons.,0.8333333333333334,5.218905210494995
+964,"The school organises annual trips ranging from Snowdonia, Wales to Uzel, France and beyond.","The school organizes annual trips ranging from Snowdonia, Wales to Wiesel, France and beyond.",0.14285714285714285,5.629584074020386
+965,Through Effingham it is Fayette Avenue and Willow Street.,"Through Effingham, it is Fayette Avenue and Willow Street.",0.1111111111111111,5.35434103012085
+966,"It grows along the borders of lakes, ponds and streams and in marshes.","It grows along the borders of lakes, ponds and streams and in marshes.",0.0,5.491189002990723
+967,"To her amazement, she found a supermarket trolley lying on the seabed.",To her amazement she found a supermarket trolley lying on the sea bed.,0.25,5.379976987838745
+968,All songs written by Dave Wyndorf unless noted otherwise.,"All songs written by Dave Windorf, unless noted otherwise.",0.1111111111111111,5.247816324234009
+969,I am going to be hanged like a dog.,I am going to be hanged like a dog.,0.0,5.189027786254883
+970,Troops are accused to routinely torture prisoners in Iraq.,Troops are accused to routinely torture prisoners in Iraq.,0.0,5.22801661491394
+971,"The news was chilling, to say the least.",The news was chilling to say the least.,0.125,5.2421650886535645
+972,I have Celtic ancestry.,I have Celtic ancestry,0.25,5.107754468917847
+973,The Radicals did not win any seats in the assembly.,The radicals did not win any suits in the assembly.,0.2,5.2182228565216064
+974,"Since the end of the Java War, they no longer function as combat troops.","Since they don't know, they know everybody has combat troops.",0.7142857142857143,5.586082220077515
+975,What is today?,What is today?,0.0,5.034574508666992
+976,"That's true, the boy thought.","That's true, the boyfriend.",0.4,5.212631464004517
+977,What can it be?,What can it be?,0.0,5.081265211105347
+978,Mister Robinson will be on time.,Mr. Robinson will be on time.,0.16666666666666666,5.239561319351196
+979,"Don't overthink, just do it.",Don't overthink. Just do it.,0.4,5.1491382122039795
+980,"Japanese culture is incredibly addictive, their buildings look amazing.",Japanese culture is incredibly addictive. The paintings look amazing.,0.3333333333333333,5.20835018157959
+981,They could barely see the boy.,"They're called Battle A, see ya boy.",0.8333333333333334,5.249768018722534
+982,"“I am quite aware of that,” she replied.",I'm going to write a dot here,1.0,5.348113536834717
+983,What is it like?,What is it like?,0.0,5.082763195037842
+984,All of the bus models are limited editions and attract collectors.,All of the bus models are limited editions and network collectors.,0.09090909090909091,5.350205659866333
+985,"Toffee coated all the surfaces, it was disgustingly sticky.","Hello, feet broken all the surfaces. The disgusting is tricky.",0.8888888888888888,5.2671754360198975
+986,"Labor groups, while overwhelmingly supportive, expressed a set of reservations.","Labor groups, while overwhelmingly supportive, expressed a set of reservations.",0.0,5.2541632652282715
+987,"This obviously hurt the economy, as well as city income.",This obviously hurt the economy as well as city income.,0.1,5.281572341918945
+988,Where can I apply for the job of a millionaire?,Where can I apply for the job of a millionaire?,0.0,5.238449335098267
+989,Union consent was cited as a major hurdle for negotiators to clear.,Union consent was cited as a major hurdle for negotiators to clear.,0.0,5.289996147155762
+990,I got drunk yesterday and thought I built a super computer.,I got drunk yesterday and thought I will burn other people completely.,0.45454545454545453,5.429285049438477
+991,"A Baraita taught that Zelophehad's daughters were wise, Torah students, and righteous.","A writer taught that Zellofey heads, daughters were wise, Torah students and righteous.",0.3333333333333333,5.587339878082275
+992,He often kept several labels active at the same time.,"Hello, I'm Rohan, I'm from Berenice, I'm from the technology department in the UK.",1.3,6.935975551605225
+993,The original name of his hermitage was Gorum Zimci Karpo.,The original name of the hermitage was Gorum Zimki Carpo.,0.3,5.38671350479126
+994,Ashley likes it but Kelly is wary of Don.,I see you exit. But Kate is where you're from.,1.0,5.34866738319397
+995,Limbang has a smaller land area than Yew Tee.,Limbang has a smaller land area than UT.,0.2222222222222222,5.301285028457642
+996,Why are gully covers round?,Wire gully covers round.,0.6,5.1237266063690186
+997,Botha School is part of Clearview Public Schools.,Bothha School is a part of Clearview Public Schools.,0.25,5.334075212478638
+998,What is the matter?,What is the matter?,0.0,5.077411890029907
+999,In a little while.,In a little while,0.25,5.068840980529785

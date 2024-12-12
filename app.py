@@ -123,40 +123,8 @@ def main():
             avg_runtime = result_df['runtime'].mean()
             print(f"{arch_type}: Average WER for {model}: {avg_wer}")
             print(f"{arch_type}: Average runtime for {model}: {avg_runtime}")
-    plot_acc(results)
-    plot_runtime_acc(results)
 
 
-def plot_acc(results: dict):
-    # for architecture type...
-    for arch_type, models in results.items():
-        accs = [df['WER'].mean() for df in models.values()]
-        plt.plot(param_count, accs, label=arch_type)
-    plt.xlabel('Parameter Count (M)')
-    plt.ylabel('Word Error Rate')
-    plt.title('Accuracy of Whisper ASR Models')
-    plt.legend()
-    plt.savefig('acc.png')
-    plt.clf()
-
-# WER over accuracy
-# line represents [tiny, base, small, med]
-# 3 lines per plot
-def plot_runtime_acc(results: dict):
-    for arch_type, models in results.items():
-        accs = [df['WER'].mean() for df in models.values()]
-        runtimes = [df['runtime'].mean() for df in models.values()]
-        plt.plot(accs, runtimes, label=arch_type)
-    plt.xlabel('Word Error Rate')
-    plt.ylabel('Avg. Runtime')
-    plt.title('Accuracy-Runtime Tradeoff for Whisper Models')
-    plt.legend()
-    plt.savefig('runtime_acc.png')
-    plt.clf()
-
-
-
-# TODO: how are we going to handle regular non-cpp models?
 def test_transcription(arch_type: str, model: str) -> pd.DataFrame:
     match arch_type:
         case 'python':
@@ -184,7 +152,6 @@ def test_transcription(arch_type: str, model: str) -> pd.DataFrame:
         time_delta = time_final - time_initial
         records.append({"sample": sample['sentence'], "prediction": pred, "WER": err, "runtime": time_delta})
         
-    # TODO: store this in a pd dataframe somwehre
     df = pd.DataFrame.from_records(records)
     df.name = model
     return df

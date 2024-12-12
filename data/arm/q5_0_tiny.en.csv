@@ -1,0 +1,101 @@
+,sample,prediction,WER,runtime
+0,"Joe Keaton disapproved of films, and Buster also had reservations about the medium.",Joe Keaton disapproved of films and Buster also had reservations about the medium.,0.07692307692307693,1.812673807144165
+1,She'll be all right.,She'd be all right.,0.25,1.3419079780578613
+2,six,Six.,1.0,1.3008372783660889
+3,All's well that ends well.,"All is well, that ends well.",0.6,1.3888680934906006
+4,It is a busy market town that serves a large surrounding area.,"It is a busy market town that serves a large, surrounded area.",0.16666666666666666,1.466050148010254
+5,We are going to the football game tonight.,They're going to the football game tonight.,0.25,1.4670991897583008
+6,Elizabeth was about the same age as Maria.,It is about lost ability CMHS Maria.,0.75,1.6319293975830078
+7,Do you mean it?,Do you read it?,0.25,1.3438074588775635
+8,How is Mozilla going to handle ambiguities like queue and cue?,How is Mozilla going to handle and be with this like Q and Q?,0.5454545454545454,1.5079865455627441
+9,You are so rude!,You are so rude.,0.25,1.3436088562011719
+10,I guess you must think I'm kinda batty.,,1.0,1.553023099899292
+11,No one near the remote machine you could ring?,No one near the remote machine you could ring.,0.1111111111111111,1.4422869682312012
+12,Groves started writing songs when she was four years old.,Graves distorted writing songs when she was four years old.,0.2,1.456860065460205
+13,This led to both the Red Terror and the White Terror.,This led to both the red tear and the white tear.,0.36363636363636365,1.44523024559021
+14,The Sacramento Valley Rail Station is just a short walk away.,The Sacramento Valley Rail Station is just a short walk away.,0.0,1.4598166942596436
+15,"The most recent presidents of the United States are Donald Trump, Barack Obama, and George W. Bush.","The most recent presidents of the United States are Donald Trump, Barack Obama and George Trump.",0.17647058823529413,1.59122896194458
+16,There was nothing to hold him back except himself.,"There was nothing to hold the hand back, set himself.",0.4444444444444444,1.497321605682373
+17,These locomotives are serviced at Washwood Heath.,These locomotives are serviced at Washwood Heath.,0.0,1.4483039379119873
+18,It might be in this writer's Top Ten!,It might be in this writer's top 10.,0.25,1.4209258556365967
+19,We spoke often.,We spoke of them.,0.6666666666666666,1.3407983779907227
+20,Mrs. Lewis was selected as the new commissioner.,Mrs. Lewis was selected as the new commissioner.,0.0,1.4255750179290771
+21,The electrician looked puzzled.,in the nutrition group for the,1.5,1.4760587215423584
+22,The ladder on the fire truck was not long enough.,It later on the fire truck was not long enough.,0.2,1.439065933227539
+23,I will tell her what we decided.,I will tell not what we decided.,0.14285714285714285,1.3947606086730957
+24,Enoxaparin belongs to the class of drugs known as low molecular weight heparins.,I love this one. I love to spend a long time with the place where I have a good opportunity.,1.4615384615384615,3.526374578475952
+25,"I guess, it's a never-ending story.",I guess it's a never-ending story.,0.16666666666666666,1.4091148376464844
+26,Good things come in small packages.,Good things coming small packages.,0.3333333333333333,1.3611931800842285
+27,It is a member theater of the Union of the Theatres of Europe.,It is a member theater of the union of the theaters of Europe.,0.15384615384615385,1.4625978469848633
+28,"I like apples, pears, and pomegranate, but I do like strawberries or grapes.","I like apples, pears, and pomegranate, but I do like strawberries or grapes.",0.0,1.5834074020385742
+29,YOU WANNA TAKE THIS OUTSIDE?,You want to take this outside?,1.2,1.3779466152191162
+30,The immersion in hot water also kills the silkworm pupa.,The immersion in hot water also kills the 6th one.,0.2,1.4389464855194092
+31,"She married her business partner, Steve Lane.",She married her business partner Stephen Lee.,0.42857142857142855,1.3856465816497803
+32,Who has already arrived?,Who has already arrived?,0.0,1.3660926818847656
+33,The attack on our root server overstrained our senior administrator.,"that it takes on your road server of our strength, our senior and minis theater.",1.1,1.7777941226959229
+34,Do you want me?,Would you watch me?,0.5,1.3435609340667725
+35,That would be funny if he did.,That would be funny if he did.,0.0,1.3813648223876953
+36,"Although she had flowers and applause, Mavis said she was not content.","Although C had flowers and applause, maybe said C was not content.",0.25,1.5099854469299316
+37,"When the user's identity has been accepted by the server, you will be notified.","When the user's identity has been accepted by the server, you will be notified.",0.0,1.5211207866668701
+38,Madin was a significant figure of post-war Birmingham architecture.,Imagine was a significant figure of post-war Birmingham architecture.,0.1111111111111111,1.4657073020935059
+39,Add the column and put the sum here.,Add the column and put the sum here.,0.0,1.4056038856506348
+40,"Hello, Benjamin.",Hello Benjamin.,0.5,1.3077044486999512
+41,"After playing tennis in virtual reality, he felt dizzy.","After playing tennis and virtual reality, he felt dizzy.",0.1111111111111111,1.437276840209961
+42,A mansion was usually set on a one square.,Imagine was usually set on a 1 square.,0.3333333333333333,1.3844404220581055
+43,Have you the key?,Have you the key?,0.0,1.3406107425689697
+44,Rapidan Campaign May–June.,"Give them a campaign me, June.",2.0,1.373854160308838
+45,"Alston commented that he felt the cartoonist ""might have had some racial intent"".",Alstone commented that he felt the cartoonist might have had some racial intent.,0.23076923076923078,1.51947021484375
+46,Doing a handstand needs a lot of practice to learn.,During the handstand needs a lot of practice to learn.,0.2,1.4650511741638184
+47,Man in red tshirt and baseball cap viewed from above he is has a pile of posters,"Man, in rotation and baseball cap built from above, he has a pile of posture.",0.4117647058823529,1.523444414138794
+48,The two films were then released within one day of each other.,The two films were then released within one day each other.,0.08333333333333333,1.4980993270874023
+49,‘What did he say his name was?’ asked the captain.,What did he say his name was asked to the captain?,0.4,1.4848945140838623
+50,"At the hospital, I met a very nice nurse.",>> Gave me hospital. I met a very nice nurse.,0.4444444444444444,1.423588752746582
+51,yes,Yes.,1.0,1.2894318103790283
+52,He received his Ph.,He received his pH.,0.25,1.3505582809448242
+53,"Since their inception, Harris has been the band's principal composer and lyricist.",(speaking in foreign language),1.0,1.716752529144287
+54,"After experiencing a mind-blowing sensual orgy, Mike was sure he had taken an overdose.","After experiencing a mind blowing sensorology, Microsoft should yet take another dose.",0.7857142857142857,1.531341314315796
+55,Religious festivals include the Muslim Eids and the Christian Christmas and Easter.,Religious festivals include the Muslim deeds and the Christian Christmas and Easter.,0.08333333333333333,1.4791698455810547
+56,"What do you advise, sir?","What do you advise, sir?",0.0,1.3543813228607178
+57,"Charles looked on, angry that there was nothing he could do.","Charles looked on, angry that there was nothing he could do.",0.0,1.4530019760131836
+58,Alexandria and Texas were shut down mid-season.,Alexandria and Texas were shut down mid-season.,0.0,1.412964105606079
+59,"Karina Smirnoff of ""Dancing With The Stars"" hosted the following month.","Karina is far enough of dancing with the stars, hosted the following month.",0.6363636363636364,1.5031371116638184
+60,It is inhibited by the pneumotaxic centre.,It is inhibited by the pneumotoxic center.,0.2857142857142857,1.4515838623046875
+61,Her intro later appeared on the David Holmes Essential Collection.,Her andro later appeared on the David Holmes essential collection.,0.3,1.4556357860565186
+62,An important person in the life of Emile Claus was the painter Jenny Montigny.,An important person in their life is a man of applause. Where's the kingdom of Montignon?,0.7142857142857143,1.8706324100494385
+63,"In the United States, Federal Vehicle fleets refers to the federal government's vehicles.","In the United States, federal vehicle fleets refer to the federal government's vehicles.",0.23076923076923078,1.5092225074768066
+64,There is also a garnet mine in West Redding.,There is also a Garnet mine in West Reading.,0.2222222222222222,1.4233694076538086
+65,"They hastily drive to the plane, and flee from the dangers of the mob.",They hastily drive to the plane and flee from the dangers of the mob.,0.07142857142857142,1.5209369659423828
+66,"It was won by a woman from Vara, Sweden.",It was one body. I wore my forearm but I swear to him.,1.2222222222222223,1.4830107688903809
+67,The prints are then delivered to the customer.,The prings are then delivered to the cost of this.,0.5,1.4204514026641846
+68,There was a long silence.,There was a long silence.,0.0,1.3498222827911377
+69,Maybe he just put it there for safe keeping?,Maybe he just put it there for safekeeping?,0.2222222222222222,1.4313201904296875
+70,"In spite of this, I still believed that there were men in Mars.","In spite of this, I still live, that there were men and Mars.",0.15384615384615385,1.5235693454742432
+71,"The land was ruined, and I had to find some other way to earn a living.","Philanthropies, I have to insomatally to enricle.",0.8125,3.0159716606140137
+72,"I pointed out Mars, a bright dot of light.",I pointed out Mars a bright dot of light.,0.1111111111111111,1.4148118495941162
+73,I wondered if those birds were redwings?,I wondered if those birds were red wings.,0.2857142857142857,1.4083471298217773
+74,The state plans to re-work those curves to improve safety.,The state plans to rework those groups to improve safety.,0.2,1.4447040557861328
+75,He ended up running to the bars which fortified the windows of the first floor.,He ended up running to the bars which fortified the windows of the first floor.,0.0,1.5193843841552734
+76,"She takes him to the lift, sending him downwards.","She takes him to the leaf, sending him downwards.",0.1111111111111111,1.4301369190216064
+77,"I know why I want to get back to my flock, he thought.","I know why I want to get back to my flock, he thought.",0.0,1.4950416088104248
+78,She is married to the rapper and playwright Baba Brinkman.,"She's married to the rapper, and they write about bring men.",0.8,1.4880661964416504
+79,"Many notable problem and study composers are also International Judges, including Genrikh Kasparyan.","Many notable problem and the steady compressors are also international judges including, Gendrich, Kaspariam.",0.6153846153846154,1.6131618022918701
+80,Do you have Hugo's phone number?,Do you have Hugo's phone number?,0.0,1.3884658813476562
+81,"You should see the other guy, specifically, how good at fighting he is.","You shall see the other guy, specifically, how good that fighting is.",0.23076923076923078,1.5288174152374268
+82,He is of African-American and Italian descent.,He is an African American named China Decent.,0.8571428571428571,1.4048902988433838
+83,Lord Kingsdown funded the Kingsdown Church.,Lord Kings Down funded. The Kings Down Church.,1.0,1.418675422668457
+84,That's not Carson Sphinx.,That's not Carson Spinks.,0.25,1.3805654048919678
+85,Lorenz is listed as a Swiss heritage site of national significance.,Lorengi is listed as a Swiss heritage site of national significance.,0.09090909090909091,1.4653120040893555
+86,I have never in life hit a tennis ball.,I shall never in life hit a tennis ball.,0.1111111111111111,1.4199953079223633
+87,No runoff was necessary.,No runoff was necessary.,0.0,1.3468201160430908
+88,He is the first known and undisputed member of the Gediminids.,He is the first known and undisputed member of the Jiminians.,0.09090909090909091,1.4795289039611816
+89,"When it comes to the crunch, our company will become insolvent.","When it comes to the crunch, our company will become insolvent.",0.0,1.4880969524383545
+90,Lion Rock is located north west of Wong Tai Sin.,Lion Rock is located northwest of Wontai Singh.,0.5,1.4291880130767822
+91,He also established new schools throughout Spain.,He also established new schools for outspake.,0.2857142857142857,1.4079740047454834
+92,Backface culling is a common trick to accelerate Three-D rendering.,Back face culling is a common trick to accelerate 3D rendering.,0.3,1.497016191482544
+93,At dusk the Greek western flank was broken.,And just the great western Francoos blue country.,0.75,1.4172279834747314
+94,We should not take for granted how fortunate we have been.,We should not take for granted. How fortunate we have been.,0.18181818181818182,1.441284418106079
+95,"Topical and up-to-the-minute, E!",Topical end up to the minute E.,1.5,1.405442237854004
+96,The farmer works the soil and produces grain.,The farmer works the soil and produces grain.,0.0,1.398444414138794
+97,Don’t you understand me?,Don't you understand me?,0.25,1.3486521244049072
+98,They found one such edge in Fairbairn's system.,They found one such edge in Fairland system.,0.125,1.4147248268127441
+99,eight,8,1.0,2.544870138168335
